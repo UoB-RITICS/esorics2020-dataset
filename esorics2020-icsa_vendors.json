@@ -1,0 +1,1206 @@
+[
+  {
+    "vendor_id": 272,
+    "name": "360 Systems"
+  },
+  {
+    "vendor_id": 274,
+    "name": "3S-Smart Software Solutions"
+  },
+  {
+    "vendor_id": 275,
+    "name": "7-Technologies"
+  },
+  {
+    "vendor_id": 276,
+    "name": "ABB"
+  },
+  {
+    "vendor_id": 277,
+    "name": "ABB, PHOENIX CONTACT, Schneider Electric, Siemens, WAGO"
+  },
+  {
+    "vendor_id": 278,
+    "name": "Abbott Laboratories"
+  },
+  {
+    "vendor_id": 279,
+    "name": "Accuenergy"
+  },
+  {
+    "vendor_id": 280,
+    "name": "Adcon Telemetry"
+  },
+  {
+    "vendor_id": 281,
+    "name": "Advantech"
+  },
+  {
+    "vendor_id": 283,
+    "name": "Advantech B+B SmartWorx"
+  },
+  {
+    "vendor_id": 282,
+    "name": "Advantech, InduSoft"
+  },
+  {
+    "vendor_id": 284,
+    "name": "AGG Software"
+  },
+  {
+    "vendor_id": 285,
+    "name": "Alstom"
+  },
+  {
+    "vendor_id": 286,
+    "name": "American Auto-Matrix"
+  },
+  {
+    "vendor_id": 287,
+    "name": "AMTELCO"
+  },
+  {
+    "vendor_id": 288,
+    "name": "Animas"
+  },
+  {
+    "vendor_id": 289,
+    "name": "Arbiter Systems"
+  },
+  {
+    "vendor_id": 290,
+    "name": "ARC Informatique"
+  },
+  {
+    "vendor_id": 291,
+    "name": "ATI Systems"
+  },
+  {
+    "vendor_id": 292,
+    "name": "Automated Logic Corporation"
+  },
+  {
+    "vendor_id": 293,
+    "name": "Automated Solutions"
+  },
+  {
+    "vendor_id": 294,
+    "name": "AutomationDirect"
+  },
+  {
+    "vendor_id": 296,
+    "name": "AVEVA"
+  },
+  {
+    "vendor_id": 297,
+    "name": "AzeoTech"
+  },
+  {
+    "vendor_id": 298,
+    "name": "B+B SmartWorx"
+  },
+  {
+    "vendor_id": 299,
+    "name": "B. Braun Medical Inc."
+  },
+  {
+    "vendor_id": 300,
+    "name": "Baxter"
+  },
+  {
+    "vendor_id": 301,
+    "name": "BeaconMedaes"
+  },
+  {
+    "vendor_id": 302,
+    "name": "Beckhoff"
+  },
+  {
+    "vendor_id": 303,
+    "name": "Beckwith Electric"
+  },
+  {
+    "vendor_id": 304,
+    "name": "Becton, Dickinson and Company (BD)"
+  },
+  {
+    "vendor_id": 306,
+    "name": "Beijer Electronics"
+  },
+  {
+    "vendor_id": 308,
+    "name": "Belden"
+  },
+  {
+    "vendor_id": 309,
+    "name": "BINOM3"
+  },
+  {
+    "vendor_id": 310,
+    "name": "Biosense Webster"
+  },
+  {
+    "vendor_id": 311,
+    "name": "Black Box"
+  },
+  {
+    "vendor_id": 312,
+    "name": "BLF-Tech LLC"
+  },
+  {
+    "vendor_id": 273,
+    "name": "BMC Medical, 3B Medical"
+  },
+  {
+    "vendor_id": 313,
+    "name": "Boston Scientific"
+  },
+  {
+    "vendor_id": 314,
+    "name": "C3-ilex"
+  },
+  {
+    "vendor_id": 315,
+    "name": "CA Technologies"
+  },
+  {
+    "vendor_id": 316,
+    "name": "Cambium Networks"
+  },
+  {
+    "vendor_id": 317,
+    "name": "Canary Labs, Inc."
+  },
+  {
+    "vendor_id": 318,
+    "name": "CareFusion"
+  },
+  {
+    "vendor_id": 305,
+    "name": "CareFusion, Becton, Dickinson and Company (BD)"
+  },
+  {
+    "vendor_id": 319,
+    "name": "CAREL"
+  },
+  {
+    "vendor_id": 320,
+    "name": "Carestream"
+  },
+  {
+    "vendor_id": 321,
+    "name": "Carlo Gavazzi"
+  },
+  {
+    "vendor_id": 323,
+    "name": "Catapult Software"
+  },
+  {
+    "vendor_id": 322,
+    "name": "Catapult Software, GE"
+  },
+  {
+    "vendor_id": 324,
+    "name": "Certec EDV GmbH"
+  },
+  {
+    "vendor_id": 325,
+    "name": "CG Automation"
+  },
+  {
+    "vendor_id": 326,
+    "name": "Change Healthcare"
+  },
+  {
+    "vendor_id": 327,
+    "name": "CIMON, Inc."
+  },
+  {
+    "vendor_id": 328,
+    "name": "Circontrol"
+  },
+  {
+    "vendor_id": 329,
+    "name": "Cisco"
+  },
+  {
+    "vendor_id": 330,
+    "name": "Clorius Controls A/S"
+  },
+  {
+    "vendor_id": 331,
+    "name": "CodeWrights GmbH"
+  },
+  {
+    "vendor_id": 333,
+    "name": "Cogent Real-Time Systems Inc"
+  },
+  {
+    "vendor_id": 334,
+    "name": "Columbia Weather Systems"
+  },
+  {
+    "vendor_id": 335,
+    "name": "Computrols"
+  },
+  {
+    "vendor_id": 336,
+    "name": "Continental AG"
+  },
+  {
+    "vendor_id": 337,
+    "name": "ControlByWeb"
+  },
+  {
+    "vendor_id": 338,
+    "name": "Cooper Power Systems"
+  },
+  {
+    "vendor_id": 340,
+    "name": "COPA-DATA"
+  },
+  {
+    "vendor_id": 341,
+    "name": "Crestron"
+  },
+  {
+    "vendor_id": 342,
+    "name": "CSWorks"
+  },
+  {
+    "vendor_id": 343,
+    "name": "Ctek, Inc."
+  },
+  {
+    "vendor_id": 344,
+    "name": "CyberVision"
+  },
+  {
+    "vendor_id": 345,
+    "name": "Dahua Technology Co., Ltd"
+  },
+  {
+    "vendor_id": 346,
+    "name": "Davolink"
+  },
+  {
+    "vendor_id": 347,
+    "name": "Delta Electronics"
+  },
+  {
+    "vendor_id": 348,
+    "name": "Detcon"
+  },
+  {
+    "vendor_id": 349,
+    "name": "Digi International"
+  },
+  {
+    "vendor_id": 350,
+    "name": "Digital Canal Structural"
+  },
+  {
+    "vendor_id": 351,
+    "name": "Digital Electronics"
+  },
+  {
+    "vendor_id": 352,
+    "name": "Digium"
+  },
+  {
+    "vendor_id": 353,
+    "name": "Dräger"
+  },
+  {
+    "vendor_id": 354,
+    "name": "EasyIO"
+  },
+  {
+    "vendor_id": 355,
+    "name": "Eaton"
+  },
+  {
+    "vendor_id": 356,
+    "name": "Eaton&amp;#039;s Cooper Power Systems"
+  },
+  {
+    "vendor_id": 357,
+    "name": "Ecava"
+  },
+  {
+    "vendor_id": 358,
+    "name": "Echelon"
+  },
+  {
+    "vendor_id": 360,
+    "name": "Elecsys"
+  },
+  {
+    "vendor_id": 361,
+    "name": "Elipse"
+  },
+  {
+    "vendor_id": 362,
+    "name": "Emerson"
+  },
+  {
+    "vendor_id": 363,
+    "name": "Endress+Hauser"
+  },
+  {
+    "vendor_id": 332,
+    "name": "Endress+Hauser, CodeWrights GmbH"
+  },
+  {
+    "vendor_id": 364,
+    "name": "Entes"
+  },
+  {
+    "vendor_id": 365,
+    "name": "ENTTEC"
+  },
+  {
+    "vendor_id": 366,
+    "name": "Environmental Systems Corporation"
+  },
+  {
+    "vendor_id": 367,
+    "name": "Envitech Ltd."
+  },
+  {
+    "vendor_id": 368,
+    "name": "Ethicon"
+  },
+  {
+    "vendor_id": 369,
+    "name": "Everest Software LLC"
+  },
+  {
+    "vendor_id": 370,
+    "name": "eWON sa"
+  },
+  {
+    "vendor_id": 371,
+    "name": "Exemys"
+  },
+  {
+    "vendor_id": 372,
+    "name": "Fatek"
+  },
+  {
+    "vendor_id": 373,
+    "name": "Festo"
+  },
+  {
+    "vendor_id": 375,
+    "name": "Fidelix"
+  },
+  {
+    "vendor_id": 376,
+    "name": "Fox-IT"
+  },
+  {
+    "vendor_id": 377,
+    "name": "Fr. Sauter AG"
+  },
+  {
+    "vendor_id": 378,
+    "name": "Fuji Electric"
+  },
+  {
+    "vendor_id": 379,
+    "name": "Fujifilm"
+  },
+  {
+    "vendor_id": 380,
+    "name": "Fultek"
+  },
+  {
+    "vendor_id": 381,
+    "name": "GAIN Electronic Co. Ltd"
+  },
+  {
+    "vendor_id": 382,
+    "name": "Galil"
+  },
+  {
+    "vendor_id": 383,
+    "name": "GarrettCom"
+  },
+  {
+    "vendor_id": 384,
+    "name": "GE"
+  },
+  {
+    "vendor_id": 386,
+    "name": "GE, MACTek"
+  },
+  {
+    "vendor_id": 387,
+    "name": "GE, Silex Technology"
+  },
+  {
+    "vendor_id": 388,
+    "name": "Gemalto"
+  },
+  {
+    "vendor_id": 389,
+    "name": "General Motors, Shanghai OnStar"
+  },
+  {
+    "vendor_id": 390,
+    "name": "GEOVAP"
+  },
+  {
+    "vendor_id": 391,
+    "name": "Geutebrück"
+  },
+  {
+    "vendor_id": 392,
+    "name": "gpsd Open Source Project"
+  },
+  {
+    "vendor_id": 393,
+    "name": "Hangzhou Xiongmai Technology Co., Ltd"
+  },
+  {
+    "vendor_id": 394,
+    "name": "Hanwha Techwin"
+  },
+  {
+    "vendor_id": 395,
+    "name": "Harman"
+  },
+  {
+    "vendor_id": 374,
+    "name": "Harman-Kardon, Fiat-Chrysler Automobile US LLC"
+  },
+  {
+    "vendor_id": 396,
+    "name": "Hetronic"
+  },
+  {
+    "vendor_id": 397,
+    "name": "Hikvision"
+  },
+  {
+    "vendor_id": 307,
+    "name": "Hirschmann, Belden"
+  },
+  {
+    "vendor_id": 398,
+    "name": "Honeywell"
+  },
+  {
+    "vendor_id": 399,
+    "name": "Horner Automation"
+  },
+  {
+    "vendor_id": 400,
+    "name": "Hospira"
+  },
+  {
+    "vendor_id": 401,
+    "name": "Hyundai Motor America"
+  },
+  {
+    "vendor_id": 402,
+    "name": "I-GEN"
+  },
+  {
+    "vendor_id": 403,
+    "name": "I-SENS Inc."
+  },
+  {
+    "vendor_id": 404,
+    "name": "IBC Solar"
+  },
+  {
+    "vendor_id": 405,
+    "name": "IBHsoftec GmbH"
+  },
+  {
+    "vendor_id": 406,
+    "name": "Ice Qube"
+  },
+  {
+    "vendor_id": 407,
+    "name": "ICONICS"
+  },
+  {
+    "vendor_id": 408,
+    "name": "IDenticard"
+  },
+  {
+    "vendor_id": 409,
+    "name": "IDS"
+  },
+  {
+    "vendor_id": 410,
+    "name": "INDAS"
+  },
+  {
+    "vendor_id": 411,
+    "name": "Inductive Automation"
+  },
+  {
+    "vendor_id": 412,
+    "name": "InduSoft"
+  },
+  {
+    "vendor_id": 413,
+    "name": "Infinite Automation Systems"
+  },
+  {
+    "vendor_id": 414,
+    "name": "IniNet Solutions GmbH"
+  },
+  {
+    "vendor_id": 415,
+    "name": "Innominate"
+  },
+  {
+    "vendor_id": 417,
+    "name": "Intel"
+  },
+  {
+    "vendor_id": 418,
+    "name": "Intellicom"
+  },
+  {
+    "vendor_id": 419,
+    "name": "INTERSCHALT"
+  },
+  {
+    "vendor_id": 420,
+    "name": "Invensys"
+  },
+  {
+    "vendor_id": 421,
+    "name": "INVT Electric"
+  },
+  {
+    "vendor_id": 422,
+    "name": "IOServer"
+  },
+  {
+    "vendor_id": 423,
+    "name": "iRZ"
+  },
+  {
+    "vendor_id": 424,
+    "name": "Janitza"
+  },
+  {
+    "vendor_id": 425,
+    "name": "JanTek"
+  },
+  {
+    "vendor_id": 426,
+    "name": "Johnson Controls"
+  },
+  {
+    "vendor_id": 427,
+    "name": "Kabona AB"
+  },
+  {
+    "vendor_id": 428,
+    "name": "Kepware Technologies"
+  },
+  {
+    "vendor_id": 429,
+    "name": "KMC Controls"
+  },
+  {
+    "vendor_id": 430,
+    "name": "Korenix"
+  },
+  {
+    "vendor_id": 431,
+    "name": "Koyo"
+  },
+  {
+    "vendor_id": 432,
+    "name": "Kunbus"
+  },
+  {
+    "vendor_id": 433,
+    "name": "Lantech"
+  },
+  {
+    "vendor_id": 434,
+    "name": "LAVA Computer MFG Inc."
+  },
+  {
+    "vendor_id": 435,
+    "name": "LCDS - Leão Consultoria e Desenvolvimento de Sistemas Ltda ME"
+  },
+  {
+    "vendor_id": 436,
+    "name": "Locus Energy"
+  },
+  {
+    "vendor_id": 437,
+    "name": "LOYTEC"
+  },
+  {
+    "vendor_id": 438,
+    "name": "Lynxspring"
+  },
+  {
+    "vendor_id": 439,
+    "name": "Magnetrol"
+  },
+  {
+    "vendor_id": 440,
+    "name": "Marel"
+  },
+  {
+    "vendor_id": 441,
+    "name": "Martem"
+  },
+  {
+    "vendor_id": 442,
+    "name": "MatrikonOPC"
+  },
+  {
+    "vendor_id": 443,
+    "name": "McAfee"
+  },
+  {
+    "vendor_id": 444,
+    "name": "Measuresoft"
+  },
+  {
+    "vendor_id": 445,
+    "name": "Medtronic"
+  },
+  {
+    "vendor_id": 446,
+    "name": "Meinberg"
+  },
+  {
+    "vendor_id": 447,
+    "name": "Meteocontrol"
+  },
+  {
+    "vendor_id": 448,
+    "name": "Microsoft"
+  },
+  {
+    "vendor_id": 449,
+    "name": "MICROSYS"
+  },
+  {
+    "vendor_id": 450,
+    "name": "Miele Professional"
+  },
+  {
+    "vendor_id": 451,
+    "name": "Mirion Technologies"
+  },
+  {
+    "vendor_id": 452,
+    "name": "Mitsubishi Electric"
+  },
+  {
+    "vendor_id": 453,
+    "name": "Mitsubishi Electric Automation"
+  },
+  {
+    "vendor_id": 454,
+    "name": "Mitsubishi Electric Automation, Schneider Electric"
+  },
+  {
+    "vendor_id": 455,
+    "name": "Mitsubishi Electric Europe B.V."
+  },
+  {
+    "vendor_id": 456,
+    "name": "Monroe Electronics"
+  },
+  {
+    "vendor_id": 457,
+    "name": "Morpho"
+  },
+  {
+    "vendor_id": 458,
+    "name": "Motorola Solutions"
+  },
+  {
+    "vendor_id": 459,
+    "name": "Moxa"
+  },
+  {
+    "vendor_id": 460,
+    "name": "mySCADA"
+  },
+  {
+    "vendor_id": 461,
+    "name": "N-Tron"
+  },
+  {
+    "vendor_id": 462,
+    "name": "Nari"
+  },
+  {
+    "vendor_id": 463,
+    "name": "Natus Medical, Inc."
+  },
+  {
+    "vendor_id": 464,
+    "name": "Navis"
+  },
+  {
+    "vendor_id": 465,
+    "name": "NetComm Wireless"
+  },
+  {
+    "vendor_id": 466,
+    "name": "Network Vision"
+  },
+  {
+    "vendor_id": 467,
+    "name": "Newport"
+  },
+  {
+    "vendor_id": 468,
+    "name": "Nordex"
+  },
+  {
+    "vendor_id": 469,
+    "name": "Nortek"
+  },
+  {
+    "vendor_id": 470,
+    "name": "NovaTech"
+  },
+  {
+    "vendor_id": 471,
+    "name": "NUUO"
+  },
+  {
+    "vendor_id": 472,
+    "name": "NXP"
+  },
+  {
+    "vendor_id": 473,
+    "name": "NXP Semiconductors"
+  },
+  {
+    "vendor_id": 474,
+    "name": "Ocean Data"
+  },
+  {
+    "vendor_id": 475,
+    "name": "OleumTech"
+  },
+  {
+    "vendor_id": 476,
+    "name": "OmniMetrix"
+  },
+  {
+    "vendor_id": 477,
+    "name": "Omron"
+  },
+  {
+    "vendor_id": 478,
+    "name": "Open Automation Software"
+  },
+  {
+    "vendor_id": 479,
+    "name": "Optergy"
+  },
+  {
+    "vendor_id": 480,
+    "name": "Optimalog"
+  },
+  {
+    "vendor_id": 481,
+    "name": "Opto 22"
+  },
+  {
+    "vendor_id": 482,
+    "name": "OPW Fuel Management Systems"
+  },
+  {
+    "vendor_id": 483,
+    "name": "ORing"
+  },
+  {
+    "vendor_id": 484,
+    "name": "Orpak"
+  },
+  {
+    "vendor_id": 485,
+    "name": "OSIsoft"
+  },
+  {
+    "vendor_id": 486,
+    "name": "Other"
+  },
+  {
+    "vendor_id": 487,
+    "name": "Pacom"
+  },
+  {
+    "vendor_id": 488,
+    "name": "PACTware Consortium"
+  },
+  {
+    "vendor_id": 489,
+    "name": "Panasonic"
+  },
+  {
+    "vendor_id": 490,
+    "name": "Panasonic, Panasonic Electric Works Europe AG"
+  },
+  {
+    "vendor_id": 491,
+    "name": "Pangea Communications"
+  },
+  {
+    "vendor_id": 492,
+    "name": "PDQ Manufacturing, Inc."
+  },
+  {
+    "vendor_id": 493,
+    "name": "PEPPERL+FUCHS"
+  },
+  {
+    "vendor_id": 359,
+    "name": "PEPPERL+FUCHS, ecom instrument"
+  },
+  {
+    "vendor_id": 494,
+    "name": "Philips"
+  },
+  {
+    "vendor_id": 495,
+    "name": "Phoenix Broadband Technologies LLC"
+  },
+  {
+    "vendor_id": 496,
+    "name": "PHOENIX CONTACT"
+  },
+  {
+    "vendor_id": 416,
+    "name": "PHOENIX CONTACT, Innominate Security Technologies"
+  },
+  {
+    "vendor_id": 497,
+    "name": "Pilz"
+  },
+  {
+    "vendor_id": 498,
+    "name": "Post Oak Traffic Systems"
+  },
+  {
+    "vendor_id": 499,
+    "name": "Pro-face, Schneider Electric"
+  },
+  {
+    "vendor_id": 500,
+    "name": "Progea"
+  },
+  {
+    "vendor_id": 501,
+    "name": "ProMinent"
+  },
+  {
+    "vendor_id": 502,
+    "name": "ProSoft Technology"
+  },
+  {
+    "vendor_id": 503,
+    "name": "PSI GridConnect"
+  },
+  {
+    "vendor_id": 504,
+    "name": "QNX"
+  },
+  {
+    "vendor_id": 505,
+    "name": "Qualcomm Life"
+  },
+  {
+    "vendor_id": 506,
+    "name": "Quest"
+  },
+  {
+    "vendor_id": 507,
+    "name": "RealFlex Technologies"
+  },
+  {
+    "vendor_id": 295,
+    "name": "Red Lion Controls, AutomationDirect"
+  },
+  {
+    "vendor_id": 508,
+    "name": "Resource Data Management"
+  },
+  {
+    "vendor_id": 509,
+    "name": "Rexroth Bosch"
+  },
+  {
+    "vendor_id": 510,
+    "name": "RLE Nova-Wind"
+  },
+  {
+    "vendor_id": 511,
+    "name": "Roche"
+  },
+  {
+    "vendor_id": 512,
+    "name": "Rockwell Automation"
+  },
+  {
+    "vendor_id": 513,
+    "name": "RuggedCom"
+  },
+  {
+    "vendor_id": 514,
+    "name": "SafeNet"
+  },
+  {
+    "vendor_id": 515,
+    "name": "Saia Burgess Controls"
+  },
+  {
+    "vendor_id": 516,
+    "name": "Samsung"
+  },
+  {
+    "vendor_id": 517,
+    "name": "Satel Iberia"
+  },
+  {
+    "vendor_id": 518,
+    "name": "Sauter"
+  },
+  {
+    "vendor_id": 519,
+    "name": "SCADA Engine"
+  },
+  {
+    "vendor_id": 520,
+    "name": "ScadaTEC"
+  },
+  {
+    "vendor_id": 521,
+    "name": "Scadatec Limited"
+  },
+  {
+    "vendor_id": 522,
+    "name": "Schneider Electric"
+  },
+  {
+    "vendor_id": 523,
+    "name": "Schweitzer Engineering Laboratories"
+  },
+  {
+    "vendor_id": 524,
+    "name": "SearchBlox"
+  },
+  {
+    "vendor_id": 525,
+    "name": "Sensys Networks"
+  },
+  {
+    "vendor_id": 526,
+    "name": "SICK"
+  },
+  {
+    "vendor_id": 527,
+    "name": "Sielco Sistemi"
+  },
+  {
+    "vendor_id": 528,
+    "name": "Siemens"
+  },
+  {
+    "vendor_id": 339,
+    "name": "Siemens, COPA-DATA, Sprecher Automation, PHOENIX CONTACT"
+  },
+  {
+    "vendor_id": 529,
+    "name": "Sierra Wireless"
+  },
+  {
+    "vendor_id": 530,
+    "name": "SIMPlight"
+  },
+  {
+    "vendor_id": 531,
+    "name": "Sinapsi"
+  },
+  {
+    "vendor_id": 532,
+    "name": "Sixnet"
+  },
+  {
+    "vendor_id": 533,
+    "name": "SMA Solar Technology AG"
+  },
+  {
+    "vendor_id": 534,
+    "name": "Smiths Medical"
+  },
+  {
+    "vendor_id": 535,
+    "name": "Software Toolbox"
+  },
+  {
+    "vendor_id": 536,
+    "name": "Solar Controls"
+  },
+  {
+    "vendor_id": 537,
+    "name": "SpecView"
+  },
+  {
+    "vendor_id": 538,
+    "name": "SpiderControl"
+  },
+  {
+    "vendor_id": 539,
+    "name": "St. Jude Medical"
+  },
+  {
+    "vendor_id": 540,
+    "name": "Stryker"
+  },
+  {
+    "vendor_id": 541,
+    "name": "SUBNET Solutions Inc."
+  },
+  {
+    "vendor_id": 542,
+    "name": "Sunway"
+  },
+  {
+    "vendor_id": 543,
+    "name": "Tec4Data"
+  },
+  {
+    "vendor_id": 544,
+    "name": "Telecrane"
+  },
+  {
+    "vendor_id": 545,
+    "name": "Teledyne DALSA"
+  },
+  {
+    "vendor_id": 546,
+    "name": "Tesla"
+  },
+  {
+    "vendor_id": 547,
+    "name": "Tibbo"
+  },
+  {
+    "vendor_id": 548,
+    "name": "Tollgrade Communications, Inc."
+  },
+  {
+    "vendor_id": 549,
+    "name": "Trane U.S. Inc."
+  },
+  {
+    "vendor_id": 550,
+    "name": "Triangle MicroWorks"
+  },
+  {
+    "vendor_id": 551,
+    "name": "Triangle Research International, Inc."
+  },
+  {
+    "vendor_id": 552,
+    "name": "Tridium"
+  },
+  {
+    "vendor_id": 553,
+    "name": "Trihedral Engineering Limited"
+  },
+  {
+    "vendor_id": 554,
+    "name": "Tropos"
+  },
+  {
+    "vendor_id": 555,
+    "name": "TURCK"
+  },
+  {
+    "vendor_id": 556,
+    "name": "Unified Automation"
+  },
+  {
+    "vendor_id": 557,
+    "name": "Unitronics"
+  },
+  {
+    "vendor_id": 558,
+    "name": "Universal Robots"
+  },
+  {
+    "vendor_id": 559,
+    "name": "Vecna"
+  },
+  {
+    "vendor_id": 560,
+    "name": "VideoInsight"
+  },
+  {
+    "vendor_id": 561,
+    "name": "VIPA Controls"
+  },
+  {
+    "vendor_id": 562,
+    "name": "Visonic"
+  },
+  {
+    "vendor_id": 563,
+    "name": "Vyaire Medical"
+  },
+  {
+    "vendor_id": 564,
+    "name": "WAGO"
+  },
+  {
+    "vendor_id": 565,
+    "name": "WECON"
+  },
+  {
+    "vendor_id": 566,
+    "name": "WellinTech"
+  },
+  {
+    "vendor_id": 567,
+    "name": "Westermo"
+  },
+  {
+    "vendor_id": 568,
+    "name": "Wind River"
+  },
+  {
+    "vendor_id": 385,
+    "name": "Wind River, GE"
+  },
+  {
+    "vendor_id": 569,
+    "name": "xArrow"
+  },
+  {
+    "vendor_id": 570,
+    "name": "Xiongmai"
+  },
+  {
+    "vendor_id": 571,
+    "name": "XZERES"
+  },
+  {
+    "vendor_id": 572,
+    "name": "Yokogawa"
+  }
+]

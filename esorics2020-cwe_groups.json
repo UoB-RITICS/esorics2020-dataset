@@ -1,0 +1,372 @@
+[
+  {
+    "category_id": 1,
+    "cwe_category_name": "Weaknesses in OWASP Top Ten (2017)\r\n",
+    "comments": "RJT: Top Level Category"
+  },
+  {
+    "category_id": 2,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A1 - Injection",
+    "comments": null
+  },
+  {
+    "category_id": 3,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A2 - Broken Authentication",
+    "comments": null
+  },
+  {
+    "category_id": 4,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A3 - Sensitive Data Exposure",
+    "comments": null
+  },
+  {
+    "category_id": 5,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A4 - XML External Entities (XXE)",
+    "comments": null
+  },
+  {
+    "category_id": 6,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A5 - Broken Access Control",
+    "comments": null
+  },
+  {
+    "category_id": 7,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A6 - Security Misconfiguration",
+    "comments": null
+  },
+  {
+    "category_id": 8,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A7 - Cross-Site Scripting (XSS)",
+    "comments": null
+  },
+  {
+    "category_id": 9,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A8 - Insecure Deserialisation",
+    "comments": null
+  },
+  {
+    "category_id": 10,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A9 - Using Components with Known Vulnerabilities",
+    "comments": "RJT: Stated this is unusual - no members"
+  },
+  {
+    "category_id": 11,
+    "cwe_category_name": "OWASP Top 10 (2017) Cat. A10 - Insufficient Logging & Montoring",
+    "comments": null
+  },
+  {
+    "category_id": 12,
+    "cwe_category_name": "Weaknesses in the 2011 CWE/SANS Top 25 Most Dangerous Software Errors",
+    "comments": null
+  },
+  {
+    "category_id": 13,
+    "cwe_category_name": "2011 Top 25 - Weaknesses On the Cusp",
+    "comments": null
+  },
+  {
+    "category_id": 14,
+    "cwe_category_name": "2011 Top 25 - Porous Defenses",
+    "comments": null
+  },
+  {
+    "category_id": 15,
+    "cwe_category_name": "2011 Top 25 - Risky Resource Management",
+    "comments": null
+  },
+  {
+    "category_id": 16,
+    "cwe_category_name": "2011 Top 25 - Insecure Interaction Between Components",
+    "comments": null
+  },
+  {
+    "category_id": 17,
+    "cwe_category_name": "2019 CWE Top 25 Most Dangerous Software Errors",
+    "comments": null
+  },
+  {
+    "category_id": 19,
+    "cwe_category_name": "CWE-944 - SFP Secondary Cluster: Access Management",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 20,
+    "cwe_category_name": "CWE-945 - SFP Secondary Cluster: Insecure Resource Access",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 21,
+    "cwe_category_name": "CWE-946 - SFP Secondary Cluster: Insecure Resource Permissions",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 22,
+    "cwe_category_name": "CWE-947 - SFP Secondary Cluster: Authentication Bypass",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 23,
+    "cwe_category_name": "CWE-948 - SFP Secondary Cluster: Digital Certificate",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 24,
+    "cwe_category_name": "CWE-949 - SFP Secondary Cluster: Faulty Endpoint Authentication",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 25,
+    "cwe_category_name": "CWE-950 - SFP Secondary Cluster: Hardcoded Sensitive Data",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 26,
+    "cwe_category_name": "CWE-951 - SFP Secondary Cluster: Insecure Authentication Policy",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 27,
+    "cwe_category_name": "CWE-952 - SFP Secondary Cluster: Missing Authentication",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 28,
+    "cwe_category_name": "CWE-953 - SFP Secondary Cluster: Missing Endpoint Authentication",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 29,
+    "cwe_category_name": "CWE-954 - SFP Secondary Cluster: Multiple Binds to the Same Port",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 30,
+    "cwe_category_name": "CWE-955 - SFP Secondary Cluster: Unrestricted Authentication",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 31,
+    "cwe_category_name": "CWE-956 - SFP Secondary Cluster: Channel Attack",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 32,
+    "cwe_category_name": "CWE-957 - SFP Secondary Cluster: Protocol Error",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 33,
+    "cwe_category_name": "CWE-958 - SFP Secondary Cluster: Broken Cryptography",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 34,
+    "cwe_category_name": "CWE-959 - SFP Secondary Cluster: Weak Cryptography",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 35,
+    "cwe_category_name": "CWE-960 - SFP Secondary Cluster: Ambiguous Exception Type",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 36,
+    "cwe_category_name": "CWE-961 - SFP Secondary Cluster: Incorrect Exception Behavior",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 37,
+    "cwe_category_name": "CWE-962 - SFP Secondary Cluster: Unchecked Status Condition",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 38,
+    "cwe_category_name": "CWE-963 - SFP Secondary Cluster: Exposed Data",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 39,
+    "cwe_category_name": "CWE-964 - SFP Secondary Cluster: Exposure Temporary File",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 40,
+    "cwe_category_name": "CWE-965 - SFP Secondary Cluster: Insecure Session Management",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 41,
+    "cwe_category_name": "CWE-966 - SFP Secondary Cluster: Other Exposures",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 42,
+    "cwe_category_name": "CWE-967 - SFP Secondary Cluster: State Disclosure",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 43,
+    "cwe_category_name": "CWE-968 - SFP Secondary Cluster: Covert Channel",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 44,
+    "cwe_category_name": "CWE-969 - SFP Secondary Cluster: Faulty Memory Release",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 45,
+    "cwe_category_name": "CWE-970 - SFP Secondary Cluster: Faulty Buffer Access",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 46,
+    "cwe_category_name": "CWE-971 - SFP Secondary Cluster: Faulty Pointer Use",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 47,
+    "cwe_category_name": "CWE-972 - SFP Secondary Cluster: Faulty String Expansion",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 48,
+    "cwe_category_name": "CWE-973 - SFP Secondary Cluster: Improper NULL Termination",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 49,
+    "cwe_category_name": "CWE-974 - SFP Secondary Cluster: Incorrect Buffer Length Computation",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 50,
+    "cwe_category_name": "CWE-975 - SFP Secondary Cluster: Architecture",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 51,
+    "cwe_category_name": "CWE-976 - SFP Secondary Cluster: Compiler",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 52,
+    "cwe_category_name": "CWE-977 - SFP Secondary Cluster: Design",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 53,
+    "cwe_category_name": "CWE-978 - SFP Secondary Cluster: Implementation",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 54,
+    "cwe_category_name": "CWE-979 - SFP Secondary Cluster: Failed Chroot Jail",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 55,
+    "cwe_category_name": "CWE-980 - SFP Secondary Cluster: Link in Resource Name Resolution",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 56,
+    "cwe_category_name": "CWE-981 - SFP Secondary Cluster: Path Traversal",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 57,
+    "cwe_category_name": "CWE-982 - SFP Secondary Cluster: Failure to Release Resource",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 58,
+    "cwe_category_name": "CWE-983 - SFP Secondary Cluster: Faulty Resource Use",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 59,
+    "cwe_category_name": "CWE-984 - SFP Secondary Cluster: Life Cycle",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 60,
+    "cwe_category_name": "CWE-985 - SFP Secondary Cluster: Unrestricted Consumption",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 61,
+    "cwe_category_name": "CWE-986 - SFP Secondary Cluster: Missing Lock",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 62,
+    "cwe_category_name": "CWE-987 - SFP Secondary Cluster: Multiple Locks/Unlocks",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 63,
+    "cwe_category_name": "CWE-988 - SFP Secondary Cluster: Race Condition Window",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 64,
+    "cwe_category_name": "CWE-989 - SFP Secondary Cluster: Unrestricted Lock",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 65,
+    "cwe_category_name": "CWE-990 - SFP Secondary Cluster: Tainted Input to Command",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 66,
+    "cwe_category_name": "CWE-991 - SFP Secondary Cluster: Tainted Input to Environment",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 67,
+    "cwe_category_name": "CWE-992 - SFP Secondary Cluster: Faulty Input Transformation",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 68,
+    "cwe_category_name": "CWE-993 - SFP Secondary Cluster: Incorrect Input Handling",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 69,
+    "cwe_category_name": "CWE-994 - SFP Secondary Cluster: Tainted Input to Variable",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 70,
+    "cwe_category_name": "CWE-995 - SFP Secondary Cluster: Feature",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 71,
+    "cwe_category_name": "CWE-996 - SFP Secondary Cluster: Security",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 72,
+    "cwe_category_name": "CWE-997 - SFP Secondary Cluster: Information Loss",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 73,
+    "cwe_category_name": "CWE-998 - SFP Secondary Cluster: Glitch in Computation",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 74,
+    "cwe_category_name": "CWE-1001 - SFP Secondary Cluster: Use of an Improper API",
+    "comments": "RJT:SFP Secondary Category"
+  },
+  {
+    "category_id": 75,
+    "cwe_category_name": "CWE-1002 - SFP Secondary Cluster: Unexpected Entry Points",
+    "comments": "RJT:SFP Secondary Category"
+  }
+]

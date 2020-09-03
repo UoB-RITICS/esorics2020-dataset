@@ -1,0 +1,325 @@
+vendor_id,name
+1,360 Systems
+3,3S-Smart Software Solutions
+4,7-Technologies
+5,ABB
+6,"ABB, PHOENIX CONTACT, Schneider Electric, Siemens, WAGO"
+7,Abbott Laboratories
+8,Accuenergy
+9,Adcon Telemetry
+10,Advantech
+12,Advantech B+B SmartWorx
+11,"Advantech, InduSoft"
+13,AGG Software
+14,Alstom
+15,American Auto-Matrix
+16,AMTELCO
+17,Animas
+18,Arbiter Systems
+19,ARC Informatique
+20,ATI Systems
+21,Auto-Maskin
+22,Automated Logic Corporation
+23,Automated Solutions
+24,AutomationDirect
+27,AVEVA
+26,"AVEVA, Schneider Electric"
+28,AzeoTech
+29,B&amp;R
+30,B+B SmartWorx
+31,B. Braun Medical Inc.
+32,Baxter
+33,BeaconMedaes
+34,Beckhoff
+35,Beckwith Electric
+36,"Becton, Dickinson and Company (BD)"
+38,Beijer Electronics
+40,Belden
+41,BINOM3
+42,Biosense Webster
+43,Black Box
+44,BLF-Tech LLC
+2,"BMC Medical, 3B Medical"
+45,Boston Scientific
+46,C3-ilex
+47,CA Technologies
+48,Cambium Networks
+49,"Canary Labs, Inc."
+50,CareFusion
+37,"CareFusion, Becton, Dickinson and Company (BD)"
+51,CAREL
+52,Carestream
+53,Carlo Gavazzi
+55,Catapult Software
+54,"Catapult Software, GE"
+56,Certec EDV GmbH
+57,CG Automation
+58,Change Healthcare
+59,"CIMON, Inc."
+60,Circontrol
+61,Cisco
+62,Clorius Controls A/S
+63,CodeWrights GmbH
+65,Cogent Real-Time Systems Inc
+66,Columbia Weather Systems
+67,Computrols
+68,Continental AG
+69,ControlByWeb
+70,Cooper Power Systems
+72,COPA-DATA
+73,Crestron
+74,CSWorks
+75,"Ctek, Inc."
+76,CyberVision
+77,"Dahua Technology Co., Ltd"
+78,Datalogic
+79,Davolink
+80,Delta Controls
+81,Delta Electronics
+82,Detcon
+83,Digi International
+84,Digital Canal Structural
+85,Digital Electronics
+86,Digium
+87,Dräger
+88,EasyIO
+89,Eaton
+90,Eaton&amp;#039;s Cooper Power Systems
+91,Ecava
+92,Echelon
+94,Elecsys
+95,Elipse
+96,Emerson
+97,Endress+Hauser
+64,"Endress+Hauser, CodeWrights GmbH"
+98,"ENEA, Green Hills Software, ITRON, IP Infusion, Wind River"
+99,Entes
+100,ENTTEC
+101,Environmental Systems Corporation
+102,Envitech Ltd.
+103,Equinox
+104,Ethicon
+105,Everest Software LLC
+106,eWON sa
+107,Exemys
+108,EZAutomation
+109,Fatek
+110,Festo
+112,Fidelix
+113,Flexera
+114,Fox-IT
+115,Fr. Sauter AG
+116,Fuji Electric
+117,Fujifilm
+118,Fultek
+119,GAIN Electronic Co. Ltd
+120,Galil
+121,GarrettCom
+122,GE
+124,"GE, MACTek"
+125,"GE, Silex Technology"
+126,Gemalto
+127,"General Motors, Shanghai OnStar"
+128,GEOVAP
+129,Geutebrück
+130,gpsd Open Source Project
+131,"Hangzhou Xiongmai Technology Co., Ltd"
+132,Hanwha Techwin
+133,Harman
+111,"Harman-Kardon, Fiat-Chrysler Automobile US LLC"
+134,Hetronic
+135,Hikvision
+39,"Hirschmann, Belden"
+136,Honeywell
+137,Horner Automation
+138,Hospira
+139,Hyundai Motor America
+140,I-GEN
+141,I-SENS Inc.
+142,IBC Solar
+143,IBHsoftec GmbH
+144,Ice Qube
+145,ICONICS
+146,IDenticard
+147,IDS
+148,INDAS
+149,Inductive Automation
+150,InduSoft
+151,Infinite Automation Systems
+152,IniNet Solutions GmbH
+153,Innominate
+155,Insulet
+156,Intel
+157,Intellicom
+158,INTERSCHALT
+159,Invensys
+160,INVT Electric
+161,IOServer
+162,iRZ
+163,Janitza
+164,JanTek
+165,Johnson Controls
+166,Kabona AB
+167,Kepware Technologies
+168,KMC Controls
+169,Korenix
+170,Koyo
+171,Kunbus
+172,Lantech
+173,LAVA Computer MFG Inc.
+174,LCDS - Leão Consultoria e Desenvolvimento de Sistemas Ltda ME
+175,Locus Energy
+176,LOYTEC
+177,Lynxspring
+178,Magnetrol
+179,Marel
+180,Martem
+181,MatrikonOPC
+182,McAfee
+183,Measuresoft
+184,Medtronic
+185,Meinberg
+186,Meteocontrol
+187,Microsoft
+188,MICROSYS
+189,Miele Professional
+190,Mirion Technologies
+191,Mitsubishi Electric
+192,Mitsubishi Electric Automation
+193,"Mitsubishi Electric Automation, Schneider Electric"
+194,Mitsubishi Electric Europe B.V.
+195,Monroe Electronics
+196,Morpho
+197,Motorola Solutions
+198,Moxa
+199,mySCADA
+200,N-Tron
+201,Nari
+202,National Renewable Energy Laboratory (NREL)
+203,"Natus Medical, Inc."
+204,Navis
+205,NetComm Wireless
+206,Network Vision
+207,Newport
+208,Nordex
+209,Nortek
+210,NovaTech
+211,NUUO
+212,NXP
+213,NXP Semiconductors
+214,Ocean Data
+215,OleumTech
+216,OmniMetrix
+217,Omron
+218,Open Automation Software
+219,Optergy
+220,Optimalog
+221,Opto 22
+222,OPW Fuel Management Systems
+223,ORing
+224,Orpak
+225,OSIsoft
+226,Other
+227,Pacom
+228,PACTware Consortium
+229,Panasonic
+230,"Panasonic, Panasonic Electric Works Europe AG"
+231,Pangea Communications
+232,"PDQ Manufacturing, Inc."
+233,PEPPERL+FUCHS
+93,"PEPPERL+FUCHS, ecom instrument"
+234,Philips
+235,Phoenix Broadband Technologies LLC
+236,PHOENIX CONTACT
+154,"PHOENIX CONTACT, Innominate Security Technologies"
+237,Pilz
+238,Post Oak Traffic Systems
+239,Prima Systems
+240,"Pro-face, Schneider Electric"
+241,Progea
+242,ProMinent
+243,ProSoft Technology
+244,PSI GridConnect
+245,QNX
+246,Qualcomm Life
+247,Quest
+248,RealFlex Technologies
+249,Red Lion Controls
+25,"Red Lion Controls, AutomationDirect"
+250,Reliable Controls
+251,Resource Data Management
+252,Rexroth Bosch
+253,Rittal
+254,RLE Nova-Wind
+255,Roche
+256,Rockwell Automation
+257,RuggedCom
+258,SafeNet
+259,Saia Burgess Controls
+260,Samsung
+261,Satel Iberia
+262,Sauter
+263,SCADA Engine
+264,ScadaTEC
+265,Scadatec Limited
+266,Schneider
+267,Schneider Electric
+268,Schweitzer Engineering Laboratories
+269,SearchBlox
+270,Sensys Networks
+271,SICK
+272,Sielco Sistemi
+273,Siemens
+71,"Siemens, COPA-DATA, Sprecher Automation, PHOENIX CONTACT"
+274,Sierra Wireless
+275,SIMPlight
+276,Sinapsi
+277,Sixnet
+278,SMA Solar Technology AG
+279,Smiths Medical
+280,Software Toolbox
+281,Solar Controls
+282,Spacelabs
+283,SpecView
+284,SpiderControl
+285,St. Jude Medical
+286,Stryker
+287,SUBNET Solutions Inc.
+288,Sunway
+289,Synergy Systems &amp; Solutions
+290,Systech
+291,Tec4Data
+292,Telecrane
+293,Teledyne DALSA
+294,Tesla
+295,Thales DIS
+296,Tibbo
+297,"Tollgrade Communications, Inc."
+298,Trane U.S. Inc.
+299,Triangle MicroWorks
+300,"Triangle Research International, Inc."
+301,Tridium
+302,Trihedral Engineering Limited
+303,Tropos
+304,TURCK
+305,Unified Automation
+306,Unitronics
+307,Universal Robots
+308,Vecna
+309,VideoInsight
+310,VIPA Controls
+311,VISAM
+312,Visonic
+313,Vyaire Medical
+314,WAGO
+315,WECON
+316,Weidmueller
+317,WellinTech
+318,Westermo
+319,Wind River
+123,"Wind River, GE"
+320,xArrow
+321,Xiongmai
+322,XZERES
+323,Yokogawa
+324,Zebra

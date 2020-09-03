@@ -1,0 +1,76 @@
+category_id,cwe_category_name,comments
+1,"Weaknesses in OWASP Top Ten (2017)
+",RJT: Top Level Category
+2,OWASP Top 10 (2017) Cat. A1 - Injection,NULL
+3,OWASP Top 10 (2017) Cat. A2 - Broken Authentication,NULL
+4,OWASP Top 10 (2017) Cat. A3 - Sensitive Data Exposure,NULL
+5,OWASP Top 10 (2017) Cat. A4 - XML External Entities (XXE),NULL
+6,OWASP Top 10 (2017) Cat. A5 - Broken Access Control,NULL
+7,OWASP Top 10 (2017) Cat. A6 - Security Misconfiguration,NULL
+8,OWASP Top 10 (2017) Cat. A7 - Cross-Site Scripting (XSS),NULL
+9,OWASP Top 10 (2017) Cat. A8 - Insecure Deserialisation,NULL
+10,OWASP Top 10 (2017) Cat. A9 - Using Components with Known Vulnerabilities,RJT: Stated this is unusual - no members
+11,OWASP Top 10 (2017) Cat. A10 - Insufficient Logging & Montoring,NULL
+12,Weaknesses in the 2011 CWE/SANS Top 25 Most Dangerous Software Errors,NULL
+13,2011 Top 25 - Weaknesses On the Cusp,NULL
+14,2011 Top 25 - Porous Defenses,NULL
+15,2011 Top 25 - Risky Resource Management,NULL
+16,2011 Top 25 - Insecure Interaction Between Components,NULL
+17,2019 CWE Top 25 Most Dangerous Software Errors,NULL
+19,CWE-944 - SFP Secondary Cluster: Access Management,RJT:SFP Secondary Category
+20,CWE-945 - SFP Secondary Cluster: Insecure Resource Access,RJT:SFP Secondary Category
+21,CWE-946 - SFP Secondary Cluster: Insecure Resource Permissions,RJT:SFP Secondary Category
+22,CWE-947 - SFP Secondary Cluster: Authentication Bypass,RJT:SFP Secondary Category
+23,CWE-948 - SFP Secondary Cluster: Digital Certificate,RJT:SFP Secondary Category
+24,CWE-949 - SFP Secondary Cluster: Faulty Endpoint Authentication,RJT:SFP Secondary Category
+25,CWE-950 - SFP Secondary Cluster: Hardcoded Sensitive Data,RJT:SFP Secondary Category
+26,CWE-951 - SFP Secondary Cluster: Insecure Authentication Policy,RJT:SFP Secondary Category
+27,CWE-952 - SFP Secondary Cluster: Missing Authentication,RJT:SFP Secondary Category
+28,CWE-953 - SFP Secondary Cluster: Missing Endpoint Authentication,RJT:SFP Secondary Category
+29,CWE-954 - SFP Secondary Cluster: Multiple Binds to the Same Port,RJT:SFP Secondary Category
+30,CWE-955 - SFP Secondary Cluster: Unrestricted Authentication,RJT:SFP Secondary Category
+31,CWE-956 - SFP Secondary Cluster: Channel Attack,RJT:SFP Secondary Category
+32,CWE-957 - SFP Secondary Cluster: Protocol Error,RJT:SFP Secondary Category
+33,CWE-958 - SFP Secondary Cluster: Broken Cryptography,RJT:SFP Secondary Category
+34,CWE-959 - SFP Secondary Cluster: Weak Cryptography,RJT:SFP Secondary Category
+35,CWE-960 - SFP Secondary Cluster: Ambiguous Exception Type,RJT:SFP Secondary Category
+36,CWE-961 - SFP Secondary Cluster: Incorrect Exception Behavior,RJT:SFP Secondary Category
+37,CWE-962 - SFP Secondary Cluster: Unchecked Status Condition,RJT:SFP Secondary Category
+38,CWE-963 - SFP Secondary Cluster: Exposed Data,RJT:SFP Secondary Category
+39,CWE-964 - SFP Secondary Cluster: Exposure Temporary File,RJT:SFP Secondary Category
+40,CWE-965 - SFP Secondary Cluster: Insecure Session Management,RJT:SFP Secondary Category
+41,CWE-966 - SFP Secondary Cluster: Other Exposures,RJT:SFP Secondary Category
+42,CWE-967 - SFP Secondary Cluster: State Disclosure,RJT:SFP Secondary Category
+43,CWE-968 - SFP Secondary Cluster: Covert Channel,RJT:SFP Secondary Category
+44,CWE-969 - SFP Secondary Cluster: Faulty Memory Release,RJT:SFP Secondary Category
+45,CWE-970 - SFP Secondary Cluster: Faulty Buffer Access,RJT:SFP Secondary Category
+46,CWE-971 - SFP Secondary Cluster: Faulty Pointer Use,RJT:SFP Secondary Category
+47,CWE-972 - SFP Secondary Cluster: Faulty String Expansion,RJT:SFP Secondary Category
+48,CWE-973 - SFP Secondary Cluster: Improper NULL Termination,RJT:SFP Secondary Category
+49,CWE-974 - SFP Secondary Cluster: Incorrect Buffer Length Computation,RJT:SFP Secondary Category
+50,CWE-975 - SFP Secondary Cluster: Architecture,RJT:SFP Secondary Category
+51,CWE-976 - SFP Secondary Cluster: Compiler,RJT:SFP Secondary Category
+52,CWE-977 - SFP Secondary Cluster: Design,RJT:SFP Secondary Category
+53,CWE-978 - SFP Secondary Cluster: Implementation,RJT:SFP Secondary Category
+54,CWE-979 - SFP Secondary Cluster: Failed Chroot Jail,RJT:SFP Secondary Category
+55,CWE-980 - SFP Secondary Cluster: Link in Resource Name Resolution,RJT:SFP Secondary Category
+56,CWE-981 - SFP Secondary Cluster: Path Traversal,RJT:SFP Secondary Category
+57,CWE-982 - SFP Secondary Cluster: Failure to Release Resource,RJT:SFP Secondary Category
+58,CWE-983 - SFP Secondary Cluster: Faulty Resource Use,RJT:SFP Secondary Category
+59,CWE-984 - SFP Secondary Cluster: Life Cycle,RJT:SFP Secondary Category
+60,CWE-985 - SFP Secondary Cluster: Unrestricted Consumption,RJT:SFP Secondary Category
+61,CWE-986 - SFP Secondary Cluster: Missing Lock,RJT:SFP Secondary Category
+62,CWE-987 - SFP Secondary Cluster: Multiple Locks/Unlocks,RJT:SFP Secondary Category
+63,CWE-988 - SFP Secondary Cluster: Race Condition Window,RJT:SFP Secondary Category
+64,CWE-989 - SFP Secondary Cluster: Unrestricted Lock,RJT:SFP Secondary Category
+65,CWE-990 - SFP Secondary Cluster: Tainted Input to Command,RJT:SFP Secondary Category
+66,CWE-991 - SFP Secondary Cluster: Tainted Input to Environment,RJT:SFP Secondary Category
+67,CWE-992 - SFP Secondary Cluster: Faulty Input Transformation,RJT:SFP Secondary Category
+68,CWE-993 - SFP Secondary Cluster: Incorrect Input Handling,RJT:SFP Secondary Category
+69,CWE-994 - SFP Secondary Cluster: Tainted Input to Variable,RJT:SFP Secondary Category
+70,CWE-995 - SFP Secondary Cluster: Feature,RJT:SFP Secondary Category
+71,CWE-996 - SFP Secondary Cluster: Security,RJT:SFP Secondary Category
+72,CWE-997 - SFP Secondary Cluster: Information Loss,RJT:SFP Secondary Category
+73,CWE-998 - SFP Secondary Cluster: Glitch in Computation,RJT:SFP Secondary Category
+74,CWE-1001 - SFP Secondary Cluster: Use of an Improper API,RJT:SFP Secondary Category
+75,CWE-1002 - SFP Secondary Cluster: Unexpected Entry Points,RJT:SFP Secondary Category

@@ -1,0 +1,1712 @@
+[
+  {
+    "icsa_id": "ICSA-19-190-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-190-01",
+    "icsa_release": "2019-07-09T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Emerson DeltaV Distributed Control System",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Emerson",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-190-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-190-02",
+    "icsa_release": "2019-07-09T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Rockwell Automation PanelView 5510",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Rockwell Automation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-190-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-190-03",
+    "icsa_release": "2019-07-09T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric Zelio Soft 2",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-190-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-190-04",
+    "icsa_release": "2019-07-09T00:00:00",
+    "icsa_update": "2019-08-13T00:00:00",
+    "icsa_description": "Siemens Spectrum Power (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-190-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-190-05",
+    "icsa_release": "2019-12-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIPROTEC 5 and DIGSI 5 (Update B)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-192-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-192-01",
+    "icsa_release": "2019-07-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Delta Industrial Automation CNCSoft ScreenEditor",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Delta Electronics",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-192-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-192-02",
+    "icsa_release": "2019-10-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC WinCC and PCS7 (Update C)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-192-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-192-03",
+    "icsa_release": "2019-07-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens TIA Administrator (TIA Portal)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-192-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-192-04",
+    "icsa_release": "2019-07-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC RF6XXR",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-192-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-192-05",
+    "icsa_release": "2019-07-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "AVEVA Vijeo Citect and Citect SCADA Floating License Manager",
+    "icsa_is_update": "1",
+    "icsa_vendor": "AVEVA",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-192-06",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-192-06",
+    "icsa_release": "2019-07-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric Interactive Graphical SCADA System",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-192-07",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-192-07",
+    "icsa_release": "2019-07-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric Floating License Manager",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-199-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-199-01",
+    "icsa_release": "2019-07-16T00:00:00",
+    "icsa_update": "2019-07-24T00:00:00",
+    "icsa_description": "Johnson Controls exacqVision Server",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Johnson Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-204-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-204-01",
+    "icsa_release": "2019-07-23T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Mitsubishi Electric FR Configurator2",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Mitsubishi Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-204-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-204-02",
+    "icsa_release": "2019-07-23T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "NREL EnergyPlus",
+    "icsa_is_update": "1",
+    "icsa_vendor": "National Renewable Energy Laboratory (NREL)",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-211-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-211-01",
+    "icsa_release": "2019-07-30T00:00:00",
+    "icsa_update": "2019-08-08T00:00:00",
+    "icsa_description": "Wind River VxWorks (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Wind River",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-211-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-211-02",
+    "icsa_release": "2019-07-30T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Prima Systems FlexAir",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Prima Systems",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-213-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-213-01",
+    "icsa_release": "2019-08-01T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Advantech WebAccess HMI Designer",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Advantech",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-213-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-213-02",
+    "icsa_release": "2019-08-01T00:00:00",
+    "icsa_update": "2019-08-05T00:00:00",
+    "icsa_description": "Fuji Electric FRENIC Loader",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Fuji Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-213-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-213-03",
+    "icsa_release": "2019-08-01T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "3S-Smart Software Solutions GmbH CODESYS V3",
+    "icsa_is_update": "1",
+    "icsa_vendor": "3S-Smart Software Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-213-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-213-04",
+    "icsa_release": "2019-08-01T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "3S-Smart Software Solutions GmbH CODESYS V3",
+    "icsa_is_update": "1",
+    "icsa_vendor": "3S-Smart Software Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-213-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-213-05",
+    "icsa_release": "2019-08-01T00:00:00",
+    "icsa_update": "2019-09-20T00:00:00",
+    "icsa_description": "Rockwell Automation Arena Simulation Software (Update B)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Rockwell Automation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-213-06",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-213-06",
+    "icsa_release": "2019-08-01T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "LCDS LAquis SCADA LQS File Parsing",
+    "icsa_is_update": "1",
+    "icsa_vendor": "LCDS - Leão Consultoria e Desenvolvimento de Sistemas Ltda ME",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-225-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-225-01",
+    "icsa_release": "2019-08-13T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Delta Industrial Automation DOPSoft",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Delta Electronics",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-225-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-225-02",
+    "icsa_release": "2019-08-13T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "OSIsoft PI Web API",
+    "icsa_is_update": "1",
+    "icsa_vendor": "OSIsoft",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-225-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-225-03",
+    "icsa_release": "2019-08-13T00:00:00",
+    "icsa_update": "2019-08-21T00:00:00",
+    "icsa_description": "Siemens SCALANCE X Switches (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-227-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-227-01",
+    "icsa_release": "2019-08-15T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Johnson Controls Metasys",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Johnson Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-227-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-227-02",
+    "icsa_release": "2019-08-15T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Fuji Electric Alpha5 Smart Loader",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Fuji Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-227-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-227-03",
+    "icsa_release": "2019-08-15T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SCALANCE Products",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-227-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-227-04",
+    "icsa_release": "2019-12-10T00:00:00",
+    "icsa_update": "2019-12-17T00:00:00",
+    "icsa_description": "Siemens SINAMICS (Update B)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-232-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-232-01",
+    "icsa_release": "2019-08-20T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Zebra Industrial Printers",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Zebra",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-239-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-239-01",
+    "icsa_release": "2019-08-27T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Delta Controls enteliBUS Controllers",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Delta Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-239-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-239-02",
+    "icsa_release": "2019-08-27T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Datalogic AV7000 Linear Barcode Scanner",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Datalogic",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-246-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-246-01",
+    "icsa_release": "2019-09-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "EZAutomation EZ Touch Editor",
+    "icsa_is_update": "0",
+    "icsa_vendor": "EZAutomation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-246-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-246-02",
+    "icsa_release": "2019-09-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "EZAutomation EZ PLC Editor",
+    "icsa_is_update": "0",
+    "icsa_vendor": "EZAutomation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-248-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-248-01",
+    "icsa_release": "2019-09-05T00:00:00",
+    "icsa_update": "2019-09-16T00:00:00",
+    "icsa_description": "Red Lion Controls Crimson",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Red Lion Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-253-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-253-01",
+    "icsa_release": "2019-09-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Delta Electronics TPEditor",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Delta Electronics",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-253-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-253-02",
+    "icsa_release": "2019-09-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SINETPLAN",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-253-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-253-03",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens Industrial Products (Update E)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-253-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-253-04",
+    "icsa_release": "2019-09-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens IE-WSN-PA Link WirelessHART Gateway",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-253-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-253-05",
+    "icsa_release": "2019-09-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC TDC CP51M1",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-253-06",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-253-06",
+    "icsa_release": "2019-09-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "OSIsoft PI SQL Client",
+    "icsa_is_update": "1",
+    "icsa_vendor": "OSIsoft",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-255-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-255-01",
+    "icsa_release": "2019-09-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "3S-Smart Software Solutions GmbH CODESYS V3 Web Server",
+    "icsa_is_update": "1",
+    "icsa_vendor": "3S-Smart Software Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-255-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-255-02",
+    "icsa_release": "2019-09-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "3S-Smart Software Solutions GmbH CODESYS V3 Library Manager",
+    "icsa_is_update": "1",
+    "icsa_vendor": "3S-Smart Software Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-255-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-255-03",
+    "icsa_release": "2019-09-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "3S-Smart Software Solutions GmbH CODESYS Control V3 Online User Management",
+    "icsa_is_update": "1",
+    "icsa_vendor": "3S-Smart Software Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-255-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-255-04",
+    "icsa_release": "2019-09-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "3S-Smart Software Solutions GmbH CODESYS Control V3 OPC UA Server",
+    "icsa_is_update": "1",
+    "icsa_vendor": "3S-Smart Software Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-255-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-255-05",
+    "icsa_release": "2019-09-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "3S-Smart Software Solutions GmbH CODESYS V3 Products Containing a CODESYS Communication Server",
+    "icsa_is_update": "1",
+    "icsa_vendor": "3S-Smart Software Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-260-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-260-01",
+    "icsa_release": "2019-09-17T00:00:00",
+    "icsa_update": "2019-09-18T00:00:00",
+    "icsa_description": "Advantech WebAccess",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Advantech",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-260-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-260-02",
+    "icsa_release": "2019-09-17T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SINEMA Remote Connect Server",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-260-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-260-03",
+    "icsa_release": "2019-09-17T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell Performance IP Cameras and Performance NVRs",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-262-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-262-01",
+    "icsa_release": "2019-09-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Tridium Niagara",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Tridium",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-274-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-274-01",
+    "icsa_release": "2020-02-18T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Interpeak IPnet TCP/IP Stack (Update C)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "ENEA, Green Hills Software, ITRON, IP Infusion, Wind River",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-274-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-274-02",
+    "icsa_release": "2019-10-01T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Yokogawa Products",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Yokogawa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-274-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-274-03",
+    "icsa_release": "2019-10-01T00:00:00",
+    "icsa_update": "2019-10-02T00:00:00",
+    "icsa_description": "Moxa EDR 810 Series",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-281-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-281-01",
+    "icsa_release": "2019-10-08T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "SMA Solar Technology AG Sunny WebBox",
+    "icsa_is_update": "1",
+    "icsa_vendor": "SMA Solar Technology AG",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-281-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-281-02",
+    "icsa_release": "2019-10-08T00:00:00",
+    "icsa_update": "2019-10-15T00:00:00",
+    "icsa_description": "GE Mark VIe Controller",
+    "icsa_is_update": "1",
+    "icsa_vendor": "GE",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-281-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-281-03",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC WinAC RTX (F) 2010 (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-281-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-281-04",
+    "icsa_release": "2019-10-08T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC IT UADM",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-283-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-283-01",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens Industrial Real-Time (IRT) Devices (Update C)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-283-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-283-02",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens PROFINET Devices (Update D)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-290-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-290-01",
+    "icsa_release": "2019-12-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "AVEVA Vijeo Citect and Citect SCADA (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "AVEVA, Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-290-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-290-02",
+    "icsa_release": "2019-10-17T00:00:00",
+    "icsa_update": "2019-10-23T00:00:00",
+    "icsa_description": "Horner Automation Cscape",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Horner Automation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-295-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-295-01",
+    "icsa_release": "2019-10-22T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric ProClima",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-297-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-297-01",
+    "icsa_release": "2019-10-24T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Rittal Chiller SK 3232-Series",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Rittal",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-297-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-297-02",
+    "icsa_release": "2019-10-24T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell IP-AK2",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-302-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-302-01",
+    "icsa_release": "2019-10-29T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "PHOENIX CONTACT Automation Worx Software Suite",
+    "icsa_is_update": "1",
+    "icsa_vendor": "PHOENIX CONTACT",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-304-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-304-01",
+    "icsa_release": "2019-10-31T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Advantech WISE-PaaS/RMM",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Advantech",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-304-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-304-02",
+    "icsa_release": "2019-10-31T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell equIP Series IP Cameras",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-304-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-304-03",
+    "icsa_release": "2019-10-31T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell equIP and Performance Series IP Cameras",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-304-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-304-04",
+    "icsa_release": "2019-10-31T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell equIP and Performance Series IP Cameras and Recorders",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-309-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-309-01",
+    "icsa_release": "2019-11-05T00:00:00",
+    "icsa_update": "2019-11-06T00:00:00",
+    "icsa_description": "Omron CX-Supervisor",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Omron",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-311-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-311-01",
+    "icsa_release": "2019-11-07T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Mitsubishi Electric MELSEC-Q Series and MELSEC-L Series CPU Modules",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Mitsubishi Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-311-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-311-02",
+    "icsa_release": "2019-11-07T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Fuji Electric V-Server",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Fuji Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-318-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-318-01",
+    "icsa_release": "2019-11-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens Mentor Nucleus Networking Module",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-318-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-318-02",
+    "icsa_release": "2019-12-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens S7-1200 and S7-200 SMART CPUs (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-318-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-318-03",
+    "icsa_release": "2019-11-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens Desigo PX Devices",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-318-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-318-04",
+    "icsa_release": "2019-12-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Omron CX-Supervisor (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Omron",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-318-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-318-05",
+    "icsa_release": "2019-11-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "ABB Power Generation Information Manager (PGIM) and Plant Connect",
+    "icsa_is_update": "1",
+    "icsa_vendor": "ABB",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-323-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-323-01",
+    "icsa_release": "2019-11-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Flexera FlexNet Publisher",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Flexera",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-330-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-330-01",
+    "icsa_release": "2019-11-26T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "ABB Relion 670 Series",
+    "icsa_is_update": "1",
+    "icsa_vendor": "ABB",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-330-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-330-02",
+    "icsa_release": "2019-11-26T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "ABB Relion 650 and 670 Series",
+    "icsa_is_update": "1",
+    "icsa_vendor": "ABB",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-337-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-337-01",
+    "icsa_release": "2019-12-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Reliable Controls LicenseManager",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Reliable Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-337-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-337-02",
+    "icsa_release": "2019-12-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Moxa AWK-3121",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-339-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-339-01",
+    "icsa_release": "2019-12-05T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Thales DIS SafeNet Sentinel LDK License Manager Runtime",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Thales DIS",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-339-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-339-02",
+    "icsa_release": "2019-12-05T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Weidmueller Industrial Ethernet Switches",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Weidmueller",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-344-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-344-01",
+    "icsa_release": "2019-12-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SCALANCE W700 and W1700",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-344-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-344-02",
+    "icsa_release": "2019-12-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SiNVR 3",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-344-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-344-03",
+    "icsa_release": "2019-12-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens RUGGEDCOM ROS",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-344-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-344-04",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC Products (Update B)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-344-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-344-05",
+    "icsa_release": "2019-12-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens XHQ Operations Intelligence",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-344-06",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-344-06",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC S7-1200 and S7-1500 CPU Families (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-344-07",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-344-07",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens EN100 Ethernet Module (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-346-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-346-01",
+    "icsa_release": "2019-12-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Advantech DiagAnywhere Server",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Advantech",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-346-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-346-02",
+    "icsa_release": "2019-12-12T00:00:00",
+    "icsa_update": "2020-01-13T00:00:00",
+    "icsa_description": "Omron PLC CJ and CS Series",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Omron",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-346-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-346-03",
+    "icsa_release": "2019-12-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Omron PLC CJ, CS and NJ Series",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Omron",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-351-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-351-01",
+    "icsa_release": "2019-12-17T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "GE S2020/S2020G Fast Switch 61850",
+    "icsa_is_update": "1",
+    "icsa_vendor": "GE",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-351-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-351-02",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SPPA-T3000 (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-353-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-353-01",
+    "icsa_release": "2019-12-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Moxa EDS Ethernet Switches",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-353-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-353-02",
+    "icsa_release": "2019-12-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Equinox Control Expert",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Equinox",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-353-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-353-03",
+    "icsa_release": "2019-12-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "WECON PLC Editor",
+    "icsa_is_update": "1",
+    "icsa_vendor": "WECON",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-19-353-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-19-353-04",
+    "icsa_release": "2019-12-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Reliable Controls MACH-ProWebCom/Sys",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Reliable Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-014-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-014-01",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "2020-01-16T00:00:00",
+    "icsa_description": "GE PACSystems RX3i",
+    "icsa_is_update": "1",
+    "icsa_vendor": "GE",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-014-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-014-02",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SINEMA Server",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-014-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-014-03",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SCALANCE X Switches",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-014-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-014-04",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SINAMICS PERFECT HARMONY GH180",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-014-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-014-05",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens TIA Portal",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-014-06",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-014-06",
+    "icsa_release": "2020-01-14T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "OSIsoft PI Vision",
+    "icsa_is_update": "1",
+    "icsa_vendor": "OSIsoft",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-016-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-016-01",
+    "icsa_release": "2020-01-16T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric Modicon Controllers",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-021-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-021-01",
+    "icsa_release": "2020-01-21T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell Maxpro VMS &amp; NVR",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-035-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-035-01",
+    "icsa_release": "2020-02-04T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "AutomationDirect C-More Touch Panels",
+    "icsa_is_update": "1",
+    "icsa_vendor": "AutomationDirect",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-01",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Synergy Systems &amp; Solutions HUSKY RTU",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Synergy Systems &amp; Solutions",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-02",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens Industrial Products SNMP Vulnerabilities",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-03",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC CP 1543-1",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-04",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens PROFINET-IO Stack (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-05",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC S7 (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-06",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-06",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC PCS 7, SIMATIC WinCC, and SIMATIC NET PC (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-07",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-07",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SCALANCE X Switches",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-08",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-08",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIPORT MP",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-09",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-09",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens OZW Web Server",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-10",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-10",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SCALANCE S-600",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-11",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-11",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIMATIC S7-1500 (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-12",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-12",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SIPROTEC 4 and SIPROTEC Compact",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-042-13",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-042-13",
+    "icsa_release": "2020-02-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Digi ConnectPort LTS 32 MEI",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Digi International",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-044-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-044-01",
+    "icsa_release": "2020-02-13T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric Modicon Ethernet Serial RTU",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-044-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-044-02",
+    "icsa_release": "2020-02-13T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric Magelis HMI Panels",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-049-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-049-01",
+    "icsa_release": "2020-02-18T00:00:00",
+    "icsa_update": "2020-02-19T00:00:00",
+    "icsa_description": "Honeywell INNCOM INNControl 3",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-049-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-049-02",
+    "icsa_release": "2020-02-18T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Emerson OpenEnterprise",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Emerson",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-051-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-051-01",
+    "icsa_release": "2020-02-20T00:00:00",
+    "icsa_update": "2020-02-27T00:00:00",
+    "icsa_description": "B&amp;R Automation Studio and Automation Runtime",
+    "icsa_is_update": "1",
+    "icsa_vendor": "B&amp;R",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-051-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-051-02",
+    "icsa_release": "2020-02-20T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Rockwell Automation FactoryTalk Diagnostics",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Rockwell Automation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-051-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-051-03",
+    "icsa_release": "2020-02-20T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell NOTI-FIRE-NET Web Server (NWS-3)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-051-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-051-04",
+    "icsa_release": "2020-02-20T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Auto-Maskin RP210E, DCU210E, and Marine Observer Pro (Android App)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Auto-Maskin",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-056-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-056-01",
+    "icsa_release": "2020-02-25T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Moxa MB3xxx Series Protocol Gateways",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-056-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-056-02",
+    "icsa_release": "2020-02-25T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Moxa ioLogik 2542-HSPA Series Controllers and IOs, and IOxpress Configuration Utility",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-056-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-056-03",
+    "icsa_release": "2020-02-25T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Moxa PT-7528 and PT-7828 Series Ethernet Switches",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-056-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-056-04",
+    "icsa_release": "2020-02-25T00:00:00",
+    "icsa_update": "2020-03-26T00:00:00",
+    "icsa_description": "Moxa EDS-G516E and EDS-510E Series Ethernet Switches",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-056-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-056-05",
+    "icsa_release": "2020-02-25T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Honeywell WIN-PAK",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Honeywell",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-063-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-063-01",
+    "icsa_release": "2020-03-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Emerson ValveLink",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Emerson",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-063-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-063-02",
+    "icsa_release": "2020-03-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "PHOENIX CONTACT Emalytics Controller ILC",
+    "icsa_is_update": "1",
+    "icsa_vendor": "PHOENIX CONTACT",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-063-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-063-03",
+    "icsa_release": "2020-03-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Omron PLC CJ Series",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Omron",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-063-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-063-04",
+    "icsa_release": "2020-03-03T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Moxa AWK-3131A Series Industrial AP/Bridge/Client",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Moxa",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-065-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-065-01",
+    "icsa_release": "2020-03-05T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "WAGO I/O-CHECK",
+    "icsa_is_update": "0",
+    "icsa_vendor": "WAGO",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-070-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-070-01",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens SiNVR 3",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-070-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-070-02",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "SIMATIC S7-300 CPUs and SINUMERIK Controller over Profinet",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-070-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-070-03",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Siemens Spectrum Power 5",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Siemens",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-070-04",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-070-04",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "2020-03-11T00:00:00",
+    "icsa_description": "Johnson Controls Kantech EntraPass",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Johnson Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-070-05",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-070-05",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Johnson Controls Metasys",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Johnson Controls",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-070-06",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-070-06",
+    "icsa_release": "2020-03-10T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Rockwell Automation MicroLogix Controllers and RSLogix 500 Software",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Rockwell Automation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-072-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-072-01",
+    "icsa_release": "2020-03-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "ABB eSOMS",
+    "icsa_is_update": "1",
+    "icsa_vendor": "ABB",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-072-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-072-02",
+    "icsa_release": "2020-03-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "ABB Asset Suite",
+    "icsa_is_update": "1",
+    "icsa_vendor": "ABB",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-072-03",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-072-03",
+    "icsa_release": "2020-03-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Rockwell Automation Allen-Bradley Stratix 5950",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Rockwell Automation",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-077-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-077-01",
+    "icsa_release": "2020-03-17T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Delta Electronics Industrial Automation CNCSoft ScreenEditor",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Delta Electronics",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-079-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-079-01",
+    "icsa_release": "2020-03-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Systech NDS-5000 Terminal Server",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Systech",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-084-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-084-01",
+    "icsa_release": "2020-03-24T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "VISAM Automation Base (VBASE)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "VISAM",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-084-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-084-02",
+    "icsa_release": "2020-03-24T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Schneider Electric IGSS SCADA Software",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Schneider Electric",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSA-20-086-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsa-20-086-01",
+    "icsa_release": "2020-03-26T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Advantech WebAccess",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Advantech",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-190-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-190-01",
+    "icsa_release": "2019-07-09T00:00:00",
+    "icsa_update": "2019-07-24T00:00:00",
+    "icsa_description": "GE Aestiva and Aespire Anesthesia (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "GE",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-192-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-192-01",
+    "icsa_release": "2019-07-11T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Philips Holter 2010 Plus",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Philips",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-241-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-241-01",
+    "icsa_release": "2019-08-29T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Change Healthcare McKesson and Horizon Cardiology",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Change Healthcare",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-241-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-241-02",
+    "icsa_release": "2019-08-29T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Philips HDI 4000 Ultrasound",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Philips",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-248-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-248-01",
+    "icsa_release": "2019-09-05T00:00:00",
+    "icsa_update": "2019-10-08T00:00:00",
+    "icsa_description": "BD Pyxis (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Becton, Dickinson and Company (BD)",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-255-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-255-01",
+    "icsa_release": "2019-09-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Philips IntelliVue WLAN",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Philips",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-274-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-274-01",
+    "icsa_release": "2020-01-07T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Interpeak IPnet TCP/IP Stack (Update D)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "ENEA, Green Hills Software, ITRON, IP Infusion, Wind River",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-297-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-297-01",
+    "icsa_release": "2019-10-24T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Philips IntelliSpace Perinatal",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Philips",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-311-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-311-01",
+    "icsa_release": "2019-11-07T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Medtronic Valleylab FT10 and LS10",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Medtronic",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-311-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-311-02",
+    "icsa_release": "2019-11-07T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Medtronic Valleylab FT10 and FX8",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Medtronic",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-318-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-318-01",
+    "icsa_release": "2019-12-12T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Philips IntelliBridge EC40/80 (Update A)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Philips",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-19-353-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-19-353-01",
+    "icsa_release": "2019-12-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Philips Veradius Unity, Pulsera, and Endura Dual WAN Routers",
+    "icsa_is_update": "0",
+    "icsa_vendor": "Philips",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-20-023-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-20-023-01",
+    "icsa_release": "2020-01-23T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "GE CARESCAPE, ApexPro, and Clinical Information Center systems",
+    "icsa_is_update": "1",
+    "icsa_vendor": "GE",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-20-049-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-20-049-01",
+    "icsa_release": "2020-02-18T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Spacelabs Xhibit Telemetry Receiver (XTR)",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Spacelabs",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-20-049-02",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-20-049-02",
+    "icsa_release": "2020-02-18T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "GE Ultrasound products",
+    "icsa_is_update": "1",
+    "icsa_vendor": "GE",
+    "icsa_oneliner": null
+  },
+  {
+    "icsa_id": "ICSMA-20-079-01",
+    "icsa_url": "https://www.us-cert.gov/ics/advisories/icsma-20-079-01",
+    "icsa_release": "2020-03-19T00:00:00",
+    "icsa_update": "1900-01-01T00:00:00",
+    "icsa_description": "Insulet Omnipod",
+    "icsa_is_update": "1",
+    "icsa_vendor": "Insulet",
+    "icsa_oneliner": null
+  }
+]

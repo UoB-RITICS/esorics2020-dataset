@@ -1,0 +1,172 @@
+icsa_id,icsa_url,icsa_release,icsa_update,icsa_description,icsa_is_update,icsa_vendor,icsa_oneliner
+ICSA-19-190-01,https://www.us-cert.gov/ics/advisories/icsa-19-190-01,2019-07-09,1900-01-01,Emerson DeltaV Distributed Control System,1,Emerson,NULL
+ICSA-19-190-02,https://www.us-cert.gov/ics/advisories/icsa-19-190-02,2019-07-09,1900-01-01,Rockwell Automation PanelView 5510,1,Rockwell Automation,NULL
+ICSA-19-190-03,https://www.us-cert.gov/ics/advisories/icsa-19-190-03,2019-07-09,1900-01-01,Schneider Electric Zelio Soft 2,1,Schneider Electric,NULL
+ICSA-19-190-04,https://www.us-cert.gov/ics/advisories/icsa-19-190-04,2019-07-09,2019-08-13,Siemens Spectrum Power (Update A),1,Siemens,NULL
+ICSA-19-190-05,https://www.us-cert.gov/ics/advisories/icsa-19-190-05,2019-12-10,1900-01-01,Siemens SIPROTEC 5 and DIGSI 5 (Update B),1,Siemens,NULL
+ICSA-19-192-01,https://www.us-cert.gov/ics/advisories/icsa-19-192-01,2019-07-11,1900-01-01,Delta Industrial Automation CNCSoft ScreenEditor,1,Delta Electronics,NULL
+ICSA-19-192-02,https://www.us-cert.gov/ics/advisories/icsa-19-192-02,2019-10-10,1900-01-01,Siemens SIMATIC WinCC and PCS7 (Update C),1,Siemens,NULL
+ICSA-19-192-03,https://www.us-cert.gov/ics/advisories/icsa-19-192-03,2019-07-11,1900-01-01,Siemens TIA Administrator (TIA Portal),1,Siemens,NULL
+ICSA-19-192-04,https://www.us-cert.gov/ics/advisories/icsa-19-192-04,2019-07-11,1900-01-01,Siemens SIMATIC RF6XXR,1,Siemens,NULL
+ICSA-19-192-05,https://www.us-cert.gov/ics/advisories/icsa-19-192-05,2019-07-11,1900-01-01,AVEVA Vijeo Citect and Citect SCADA Floating License Manager,1,AVEVA,NULL
+ICSA-19-192-06,https://www.us-cert.gov/ics/advisories/icsa-19-192-06,2019-07-11,1900-01-01,Schneider Electric Interactive Graphical SCADA System,1,Schneider Electric,NULL
+ICSA-19-192-07,https://www.us-cert.gov/ics/advisories/icsa-19-192-07,2019-07-11,1900-01-01,Schneider Electric Floating License Manager,1,Schneider Electric,NULL
+ICSA-19-199-01,https://www.us-cert.gov/ics/advisories/icsa-19-199-01,2019-07-16,2019-07-24,Johnson Controls exacqVision Server,1,Johnson Controls,NULL
+ICSA-19-204-01,https://www.us-cert.gov/ics/advisories/icsa-19-204-01,2019-07-23,1900-01-01,Mitsubishi Electric FR Configurator2,1,Mitsubishi Electric,NULL
+ICSA-19-204-02,https://www.us-cert.gov/ics/advisories/icsa-19-204-02,2019-07-23,1900-01-01,NREL EnergyPlus,1,National Renewable Energy Laboratory (NREL),NULL
+ICSA-19-211-01,https://www.us-cert.gov/ics/advisories/icsa-19-211-01,2019-07-30,2019-08-08,Wind River VxWorks (Update A),1,Wind River,NULL
+ICSA-19-211-02,https://www.us-cert.gov/ics/advisories/icsa-19-211-02,2019-07-30,1900-01-01,Prima Systems FlexAir,1,Prima Systems,NULL
+ICSA-19-213-01,https://www.us-cert.gov/ics/advisories/icsa-19-213-01,2019-08-01,1900-01-01,Advantech WebAccess HMI Designer,1,Advantech,NULL
+ICSA-19-213-02,https://www.us-cert.gov/ics/advisories/icsa-19-213-02,2019-08-01,2019-08-05,Fuji Electric FRENIC Loader,0,Fuji Electric,NULL
+ICSA-19-213-03,https://www.us-cert.gov/ics/advisories/icsa-19-213-03,2019-08-01,1900-01-01,3S-Smart Software Solutions GmbH CODESYS V3,1,3S-Smart Software Solutions,NULL
+ICSA-19-213-04,https://www.us-cert.gov/ics/advisories/icsa-19-213-04,2019-08-01,1900-01-01,3S-Smart Software Solutions GmbH CODESYS V3,1,3S-Smart Software Solutions,NULL
+ICSA-19-213-05,https://www.us-cert.gov/ics/advisories/icsa-19-213-05,2019-08-01,2019-09-20,Rockwell Automation Arena Simulation Software (Update B),1,Rockwell Automation,NULL
+ICSA-19-213-06,https://www.us-cert.gov/ics/advisories/icsa-19-213-06,2019-08-01,1900-01-01,LCDS LAquis SCADA LQS File Parsing,1,LCDS - Leão Consultoria e Desenvolvimento de Sistemas Ltda ME,NULL
+ICSA-19-225-01,https://www.us-cert.gov/ics/advisories/icsa-19-225-01,2019-08-13,1900-01-01,Delta Industrial Automation DOPSoft,1,Delta Electronics,NULL
+ICSA-19-225-02,https://www.us-cert.gov/ics/advisories/icsa-19-225-02,2019-08-13,1900-01-01,OSIsoft PI Web API,1,OSIsoft,NULL
+ICSA-19-225-03,https://www.us-cert.gov/ics/advisories/icsa-19-225-03,2019-08-13,2019-08-21,Siemens SCALANCE X Switches (Update A),1,Siemens,NULL
+ICSA-19-227-01,https://www.us-cert.gov/ics/advisories/icsa-19-227-01,2019-08-15,1900-01-01,Johnson Controls Metasys,1,Johnson Controls,NULL
+ICSA-19-227-02,https://www.us-cert.gov/ics/advisories/icsa-19-227-02,2019-08-15,1900-01-01,Fuji Electric Alpha5 Smart Loader,0,Fuji Electric,NULL
+ICSA-19-227-03,https://www.us-cert.gov/ics/advisories/icsa-19-227-03,2019-08-15,1900-01-01,Siemens SCALANCE Products,1,Siemens,NULL
+ICSA-19-227-04,https://www.us-cert.gov/ics/advisories/icsa-19-227-04,2019-12-10,2019-12-17,Siemens SINAMICS (Update B),1,Siemens,NULL
+ICSA-19-232-01,https://www.us-cert.gov/ics/advisories/icsa-19-232-01,2019-08-20,1900-01-01,Zebra Industrial Printers,1,Zebra,NULL
+ICSA-19-239-01,https://www.us-cert.gov/ics/advisories/icsa-19-239-01,2019-08-27,1900-01-01,Delta Controls enteliBUS Controllers,1,Delta Controls,NULL
+ICSA-19-239-02,https://www.us-cert.gov/ics/advisories/icsa-19-239-02,2019-08-27,1900-01-01,Datalogic AV7000 Linear Barcode Scanner,1,Datalogic,NULL
+ICSA-19-246-01,https://www.us-cert.gov/ics/advisories/icsa-19-246-01,2019-09-03,1900-01-01,EZAutomation EZ Touch Editor,0,EZAutomation,NULL
+ICSA-19-246-02,https://www.us-cert.gov/ics/advisories/icsa-19-246-02,2019-09-03,1900-01-01,EZAutomation EZ PLC Editor,0,EZAutomation,NULL
+ICSA-19-248-01,https://www.us-cert.gov/ics/advisories/icsa-19-248-01,2019-09-05,2019-09-16,Red Lion Controls Crimson,1,Red Lion Controls,NULL
+ICSA-19-253-01,https://www.us-cert.gov/ics/advisories/icsa-19-253-01,2019-09-10,1900-01-01,Delta Electronics TPEditor,1,Delta Electronics,NULL
+ICSA-19-253-02,https://www.us-cert.gov/ics/advisories/icsa-19-253-02,2019-09-10,1900-01-01,Siemens SINETPLAN,1,Siemens,NULL
+ICSA-19-253-03,https://www.us-cert.gov/ics/advisories/icsa-19-253-03,2020-03-10,1900-01-01,Siemens Industrial Products (Update E),1,Siemens,NULL
+ICSA-19-253-04,https://www.us-cert.gov/ics/advisories/icsa-19-253-04,2019-09-10,1900-01-01,Siemens IE-WSN-PA Link WirelessHART Gateway,1,Siemens,NULL
+ICSA-19-253-05,https://www.us-cert.gov/ics/advisories/icsa-19-253-05,2019-09-10,1900-01-01,Siemens SIMATIC TDC CP51M1,1,Siemens,NULL
+ICSA-19-253-06,https://www.us-cert.gov/ics/advisories/icsa-19-253-06,2019-09-10,1900-01-01,OSIsoft PI SQL Client,1,OSIsoft,NULL
+ICSA-19-255-01,https://www.us-cert.gov/ics/advisories/icsa-19-255-01,2019-09-12,1900-01-01,3S-Smart Software Solutions GmbH CODESYS V3 Web Server,1,3S-Smart Software Solutions,NULL
+ICSA-19-255-02,https://www.us-cert.gov/ics/advisories/icsa-19-255-02,2019-09-12,1900-01-01,3S-Smart Software Solutions GmbH CODESYS V3 Library Manager,1,3S-Smart Software Solutions,NULL
+ICSA-19-255-03,https://www.us-cert.gov/ics/advisories/icsa-19-255-03,2019-09-12,1900-01-01,3S-Smart Software Solutions GmbH CODESYS Control V3 Online User Management,1,3S-Smart Software Solutions,NULL
+ICSA-19-255-04,https://www.us-cert.gov/ics/advisories/icsa-19-255-04,2019-09-12,1900-01-01,3S-Smart Software Solutions GmbH CODESYS Control V3 OPC UA Server,1,3S-Smart Software Solutions,NULL
+ICSA-19-255-05,https://www.us-cert.gov/ics/advisories/icsa-19-255-05,2019-09-12,1900-01-01,3S-Smart Software Solutions GmbH CODESYS V3 Products Containing a CODESYS Communication Server,1,3S-Smart Software Solutions,NULL
+ICSA-19-260-01,https://www.us-cert.gov/ics/advisories/icsa-19-260-01,2019-09-17,2019-09-18,Advantech WebAccess,1,Advantech,NULL
+ICSA-19-260-02,https://www.us-cert.gov/ics/advisories/icsa-19-260-02,2019-09-17,1900-01-01,Siemens SINEMA Remote Connect Server,1,Siemens,NULL
+ICSA-19-260-03,https://www.us-cert.gov/ics/advisories/icsa-19-260-03,2019-09-17,1900-01-01,Honeywell Performance IP Cameras and Performance NVRs,0,Honeywell,NULL
+ICSA-19-262-01,https://www.us-cert.gov/ics/advisories/icsa-19-262-01,2019-09-19,1900-01-01,Tridium Niagara,1,Tridium,NULL
+ICSA-19-274-01,https://www.us-cert.gov/ics/advisories/icsa-19-274-01,2020-02-18,1900-01-01,Interpeak IPnet TCP/IP Stack (Update C),1,"ENEA, Green Hills Software, ITRON, IP Infusion, Wind River",NULL
+ICSA-19-274-02,https://www.us-cert.gov/ics/advisories/icsa-19-274-02,2019-10-01,1900-01-01,Yokogawa Products,1,Yokogawa,NULL
+ICSA-19-274-03,https://www.us-cert.gov/ics/advisories/icsa-19-274-03,2019-10-01,2019-10-02,Moxa EDR 810 Series,1,Moxa,NULL
+ICSA-19-281-01,https://www.us-cert.gov/ics/advisories/icsa-19-281-01,2019-10-08,1900-01-01,SMA Solar Technology AG Sunny WebBox,1,SMA Solar Technology AG,NULL
+ICSA-19-281-02,https://www.us-cert.gov/ics/advisories/icsa-19-281-02,2019-10-08,2019-10-15,GE Mark VIe Controller,1,GE,NULL
+ICSA-19-281-03,https://www.us-cert.gov/ics/advisories/icsa-19-281-03,2020-01-14,1900-01-01,Siemens SIMATIC WinAC RTX (F) 2010 (Update A),1,Siemens,NULL
+ICSA-19-281-04,https://www.us-cert.gov/ics/advisories/icsa-19-281-04,2019-10-08,1900-01-01,Siemens SIMATIC IT UADM,1,Siemens,NULL
+ICSA-19-283-01,https://www.us-cert.gov/ics/advisories/icsa-19-283-01,2020-03-10,1900-01-01,Siemens Industrial Real-Time (IRT) Devices (Update C),1,Siemens,NULL
+ICSA-19-283-02,https://www.us-cert.gov/ics/advisories/icsa-19-283-02,2020-03-10,1900-01-01,Siemens PROFINET Devices (Update D),1,Siemens,NULL
+ICSA-19-290-01,https://www.us-cert.gov/ics/advisories/icsa-19-290-01,2019-12-19,1900-01-01,AVEVA Vijeo Citect and Citect SCADA (Update A),1,"AVEVA, Schneider Electric",NULL
+ICSA-19-290-02,https://www.us-cert.gov/ics/advisories/icsa-19-290-02,2019-10-17,2019-10-23,Horner Automation Cscape,1,Horner Automation,NULL
+ICSA-19-295-01,https://www.us-cert.gov/ics/advisories/icsa-19-295-01,2019-10-22,1900-01-01,Schneider Electric ProClima,1,Schneider Electric,NULL
+ICSA-19-297-01,https://www.us-cert.gov/ics/advisories/icsa-19-297-01,2019-10-24,1900-01-01,Rittal Chiller SK 3232-Series,1,Rittal,NULL
+ICSA-19-297-02,https://www.us-cert.gov/ics/advisories/icsa-19-297-02,2019-10-24,1900-01-01,Honeywell IP-AK2,0,Honeywell,NULL
+ICSA-19-302-01,https://www.us-cert.gov/ics/advisories/icsa-19-302-01,2019-10-29,1900-01-01,PHOENIX CONTACT Automation Worx Software Suite,1,PHOENIX CONTACT,NULL
+ICSA-19-304-01,https://www.us-cert.gov/ics/advisories/icsa-19-304-01,2019-10-31,1900-01-01,Advantech WISE-PaaS/RMM,1,Advantech,NULL
+ICSA-19-304-02,https://www.us-cert.gov/ics/advisories/icsa-19-304-02,2019-10-31,1900-01-01,Honeywell equIP Series IP Cameras,0,Honeywell,NULL
+ICSA-19-304-03,https://www.us-cert.gov/ics/advisories/icsa-19-304-03,2019-10-31,1900-01-01,Honeywell equIP and Performance Series IP Cameras,0,Honeywell,NULL
+ICSA-19-304-04,https://www.us-cert.gov/ics/advisories/icsa-19-304-04,2019-10-31,1900-01-01,Honeywell equIP and Performance Series IP Cameras and Recorders,0,Honeywell,NULL
+ICSA-19-309-01,https://www.us-cert.gov/ics/advisories/icsa-19-309-01,2019-11-05,2019-11-06,Omron CX-Supervisor,1,Omron,NULL
+ICSA-19-311-01,https://www.us-cert.gov/ics/advisories/icsa-19-311-01,2019-11-07,1900-01-01,Mitsubishi Electric MELSEC-Q Series and MELSEC-L Series CPU Modules,1,Mitsubishi Electric,NULL
+ICSA-19-311-02,https://www.us-cert.gov/ics/advisories/icsa-19-311-02,2019-11-07,1900-01-01,Fuji Electric V-Server,0,Fuji Electric,NULL
+ICSA-19-318-01,https://www.us-cert.gov/ics/advisories/icsa-19-318-01,2019-11-14,1900-01-01,Siemens Mentor Nucleus Networking Module,1,Siemens,NULL
+ICSA-19-318-02,https://www.us-cert.gov/ics/advisories/icsa-19-318-02,2019-12-10,1900-01-01,Siemens S7-1200 and S7-200 SMART CPUs (Update A),1,Siemens,NULL
+ICSA-19-318-03,https://www.us-cert.gov/ics/advisories/icsa-19-318-03,2019-11-14,1900-01-01,Siemens Desigo PX Devices,1,Siemens,NULL
+ICSA-19-318-04,https://www.us-cert.gov/ics/advisories/icsa-19-318-04,2019-12-19,1900-01-01,Omron CX-Supervisor (Update A),1,Omron,NULL
+ICSA-19-318-05,https://www.us-cert.gov/ics/advisories/icsa-19-318-05,2019-11-14,1900-01-01,ABB Power Generation Information Manager (PGIM) and Plant Connect,1,ABB,NULL
+ICSA-19-323-01,https://www.us-cert.gov/ics/advisories/icsa-19-323-01,2019-11-19,1900-01-01,Flexera FlexNet Publisher,0,Flexera,NULL
+ICSA-19-330-01,https://www.us-cert.gov/ics/advisories/icsa-19-330-01,2019-11-26,1900-01-01,ABB Relion 670 Series,1,ABB,NULL
+ICSA-19-330-02,https://www.us-cert.gov/ics/advisories/icsa-19-330-02,2019-11-26,1900-01-01,ABB Relion 650 and 670 Series,1,ABB,NULL
+ICSA-19-337-01,https://www.us-cert.gov/ics/advisories/icsa-19-337-01,2019-12-03,1900-01-01,Reliable Controls LicenseManager,1,Reliable Controls,NULL
+ICSA-19-337-02,https://www.us-cert.gov/ics/advisories/icsa-19-337-02,2019-12-03,1900-01-01,Moxa AWK-3121,1,Moxa,NULL
+ICSA-19-339-01,https://www.us-cert.gov/ics/advisories/icsa-19-339-01,2019-12-05,1900-01-01,Thales DIS SafeNet Sentinel LDK License Manager Runtime,1,Thales DIS,NULL
+ICSA-19-339-02,https://www.us-cert.gov/ics/advisories/icsa-19-339-02,2019-12-05,1900-01-01,Weidmueller Industrial Ethernet Switches,1,Weidmueller,NULL
+ICSA-19-344-01,https://www.us-cert.gov/ics/advisories/icsa-19-344-01,2019-12-10,1900-01-01,Siemens SCALANCE W700 and W1700,1,Siemens,NULL
+ICSA-19-344-02,https://www.us-cert.gov/ics/advisories/icsa-19-344-02,2019-12-10,1900-01-01,Siemens SiNVR 3,1,Siemens,NULL
+ICSA-19-344-03,https://www.us-cert.gov/ics/advisories/icsa-19-344-03,2019-12-10,1900-01-01,Siemens RUGGEDCOM ROS,1,Siemens,NULL
+ICSA-19-344-04,https://www.us-cert.gov/ics/advisories/icsa-19-344-04,2020-03-10,1900-01-01,Siemens SIMATIC Products (Update B),1,Siemens,NULL
+ICSA-19-344-05,https://www.us-cert.gov/ics/advisories/icsa-19-344-05,2019-12-10,1900-01-01,Siemens XHQ Operations Intelligence,1,Siemens,NULL
+ICSA-19-344-06,https://www.us-cert.gov/ics/advisories/icsa-19-344-06,2020-03-10,1900-01-01,Siemens SIMATIC S7-1200 and S7-1500 CPU Families (Update A),1,Siemens,NULL
+ICSA-19-344-07,https://www.us-cert.gov/ics/advisories/icsa-19-344-07,2020-01-14,1900-01-01,Siemens EN100 Ethernet Module (Update A),1,Siemens,NULL
+ICSA-19-346-01,https://www.us-cert.gov/ics/advisories/icsa-19-346-01,2019-12-12,1900-01-01,Advantech DiagAnywhere Server,1,Advantech,NULL
+ICSA-19-346-02,https://www.us-cert.gov/ics/advisories/icsa-19-346-02,2019-12-12,2020-01-13,Omron PLC CJ and CS Series,1,Omron,NULL
+ICSA-19-346-03,https://www.us-cert.gov/ics/advisories/icsa-19-346-03,2019-12-12,1900-01-01,"Omron PLC CJ, CS and NJ Series",1,Omron,NULL
+ICSA-19-351-01,https://www.us-cert.gov/ics/advisories/icsa-19-351-01,2019-12-17,1900-01-01,GE S2020/S2020G Fast Switch 61850,1,GE,NULL
+ICSA-19-351-02,https://www.us-cert.gov/ics/advisories/icsa-19-351-02,2020-03-10,1900-01-01,Siemens SPPA-T3000 (Update A),1,Siemens,NULL
+ICSA-19-353-01,https://www.us-cert.gov/ics/advisories/icsa-19-353-01,2019-12-19,1900-01-01,Moxa EDS Ethernet Switches,1,Moxa,NULL
+ICSA-19-353-02,https://www.us-cert.gov/ics/advisories/icsa-19-353-02,2019-12-19,1900-01-01,Equinox Control Expert,0,Equinox,NULL
+ICSA-19-353-03,https://www.us-cert.gov/ics/advisories/icsa-19-353-03,2019-12-19,1900-01-01,WECON PLC Editor,1,WECON,NULL
+ICSA-19-353-04,https://www.us-cert.gov/ics/advisories/icsa-19-353-04,2019-12-19,1900-01-01,Reliable Controls MACH-ProWebCom/Sys,1,Reliable Controls,NULL
+ICSA-20-014-01,https://www.us-cert.gov/ics/advisories/icsa-20-014-01,2020-01-14,2020-01-16,GE PACSystems RX3i,1,GE,NULL
+ICSA-20-014-02,https://www.us-cert.gov/ics/advisories/icsa-20-014-02,2020-01-14,1900-01-01,Siemens SINEMA Server,0,Siemens,NULL
+ICSA-20-014-03,https://www.us-cert.gov/ics/advisories/icsa-20-014-03,2020-01-14,1900-01-01,Siemens SCALANCE X Switches,0,Siemens,NULL
+ICSA-20-014-04,https://www.us-cert.gov/ics/advisories/icsa-20-014-04,2020-01-14,1900-01-01,Siemens SINAMICS PERFECT HARMONY GH180,0,Siemens,NULL
+ICSA-20-014-05,https://www.us-cert.gov/ics/advisories/icsa-20-014-05,2020-01-14,1900-01-01,Siemens TIA Portal,0,Siemens,NULL
+ICSA-20-014-06,https://www.us-cert.gov/ics/advisories/icsa-20-014-06,2020-01-14,1900-01-01,OSIsoft PI Vision,1,OSIsoft,NULL
+ICSA-20-016-01,https://www.us-cert.gov/ics/advisories/icsa-20-016-01,2020-01-16,1900-01-01,Schneider Electric Modicon Controllers,1,Schneider,NULL
+ICSA-20-021-01,https://www.us-cert.gov/ics/advisories/icsa-20-021-01,2020-01-21,1900-01-01,Honeywell Maxpro VMS &amp; NVR,0,Honeywell,NULL
+ICSA-20-035-01,https://www.us-cert.gov/ics/advisories/icsa-20-035-01,2020-02-04,1900-01-01,AutomationDirect C-More Touch Panels,1,AutomationDirect,NULL
+ICSA-20-042-01,https://www.us-cert.gov/ics/advisories/icsa-20-042-01,2020-02-11,1900-01-01,Synergy Systems &amp; Solutions HUSKY RTU,1,Synergy Systems &amp; Solutions,NULL
+ICSA-20-042-02,https://www.us-cert.gov/ics/advisories/icsa-20-042-02,2020-02-11,1900-01-01,Siemens Industrial Products SNMP Vulnerabilities,1,Siemens,NULL
+ICSA-20-042-03,https://www.us-cert.gov/ics/advisories/icsa-20-042-03,2020-02-11,1900-01-01,Siemens SIMATIC CP 1543-1,1,Siemens,NULL
+ICSA-20-042-04,https://www.us-cert.gov/ics/advisories/icsa-20-042-04,2020-03-10,1900-01-01,Siemens PROFINET-IO Stack (Update A),1,Siemens,NULL
+ICSA-20-042-05,https://www.us-cert.gov/ics/advisories/icsa-20-042-05,2020-03-10,1900-01-01,Siemens SIMATIC S7 (Update A),1,Siemens,NULL
+ICSA-20-042-06,https://www.us-cert.gov/ics/advisories/icsa-20-042-06,2020-03-10,1900-01-01,"Siemens SIMATIC PCS 7, SIMATIC WinCC, and SIMATIC NET PC (Update A)",1,Siemens,NULL
+ICSA-20-042-07,https://www.us-cert.gov/ics/advisories/icsa-20-042-07,2020-02-11,1900-01-01,Siemens SCALANCE X Switches,0,Siemens,NULL
+ICSA-20-042-08,https://www.us-cert.gov/ics/advisories/icsa-20-042-08,2020-02-11,1900-01-01,Siemens SIPORT MP,0,Siemens,NULL
+ICSA-20-042-09,https://www.us-cert.gov/ics/advisories/icsa-20-042-09,2020-02-11,1900-01-01,Siemens OZW Web Server,0,Siemens,NULL
+ICSA-20-042-10,https://www.us-cert.gov/ics/advisories/icsa-20-042-10,2020-02-11,1900-01-01,Siemens SCALANCE S-600,0,Siemens,NULL
+ICSA-20-042-11,https://www.us-cert.gov/ics/advisories/icsa-20-042-11,2020-03-10,1900-01-01,Siemens SIMATIC S7-1500 (Update A),1,Siemens,NULL
+ICSA-20-042-12,https://www.us-cert.gov/ics/advisories/icsa-20-042-12,2020-02-11,1900-01-01,Siemens SIPROTEC 4 and SIPROTEC Compact,0,Siemens,NULL
+ICSA-20-042-13,https://www.us-cert.gov/ics/advisories/icsa-20-042-13,2020-02-11,1900-01-01,Digi ConnectPort LTS 32 MEI,1,Digi International,NULL
+ICSA-20-044-01,https://www.us-cert.gov/ics/advisories/icsa-20-044-01,2020-02-13,1900-01-01,Schneider Electric Modicon Ethernet Serial RTU,1,Schneider Electric,NULL
+ICSA-20-044-02,https://www.us-cert.gov/ics/advisories/icsa-20-044-02,2020-02-13,1900-01-01,Schneider Electric Magelis HMI Panels,1,Schneider Electric,NULL
+ICSA-20-049-01,https://www.us-cert.gov/ics/advisories/icsa-20-049-01,2020-02-18,2020-02-19,Honeywell INNCOM INNControl 3,0,Honeywell,NULL
+ICSA-20-049-02,https://www.us-cert.gov/ics/advisories/icsa-20-049-02,2020-02-18,1900-01-01,Emerson OpenEnterprise,1,Emerson,NULL
+ICSA-20-051-01,https://www.us-cert.gov/ics/advisories/icsa-20-051-01,2020-02-20,2020-02-27,B&amp;R Automation Studio and Automation Runtime,1,B&amp;R,NULL
+ICSA-20-051-02,https://www.us-cert.gov/ics/advisories/icsa-20-051-02,2020-02-20,1900-01-01,Rockwell Automation FactoryTalk Diagnostics,1,Rockwell Automation,NULL
+ICSA-20-051-03,https://www.us-cert.gov/ics/advisories/icsa-20-051-03,2020-02-20,1900-01-01,Honeywell NOTI-FIRE-NET Web Server (NWS-3),1,Honeywell,NULL
+ICSA-20-051-04,https://www.us-cert.gov/ics/advisories/icsa-20-051-04,2020-02-20,1900-01-01,"Auto-Maskin RP210E, DCU210E, and Marine Observer Pro (Android App)",1,Auto-Maskin,NULL
+ICSA-20-056-01,https://www.us-cert.gov/ics/advisories/icsa-20-056-01,2020-02-25,1900-01-01,Moxa MB3xxx Series Protocol Gateways,1,Moxa,NULL
+ICSA-20-056-02,https://www.us-cert.gov/ics/advisories/icsa-20-056-02,2020-02-25,1900-01-01,"Moxa ioLogik 2542-HSPA Series Controllers and IOs, and IOxpress Configuration Utility",1,Moxa,NULL
+ICSA-20-056-03,https://www.us-cert.gov/ics/advisories/icsa-20-056-03,2020-02-25,1900-01-01,Moxa PT-7528 and PT-7828 Series Ethernet Switches,1,Moxa,NULL
+ICSA-20-056-04,https://www.us-cert.gov/ics/advisories/icsa-20-056-04,2020-02-25,2020-03-26,Moxa EDS-G516E and EDS-510E Series Ethernet Switches,1,Moxa,NULL
+ICSA-20-056-05,https://www.us-cert.gov/ics/advisories/icsa-20-056-05,2020-02-25,1900-01-01,Honeywell WIN-PAK,1,Honeywell,NULL
+ICSA-20-063-01,https://www.us-cert.gov/ics/advisories/icsa-20-063-01,2020-03-03,1900-01-01,Emerson ValveLink,1,Emerson,NULL
+ICSA-20-063-02,https://www.us-cert.gov/ics/advisories/icsa-20-063-02,2020-03-03,1900-01-01,PHOENIX CONTACT Emalytics Controller ILC,1,PHOENIX CONTACT,NULL
+ICSA-20-063-03,https://www.us-cert.gov/ics/advisories/icsa-20-063-03,2020-03-03,1900-01-01,Omron PLC CJ Series,1,Omron,NULL
+ICSA-20-063-04,https://www.us-cert.gov/ics/advisories/icsa-20-063-04,2020-03-03,1900-01-01,Moxa AWK-3131A Series Industrial AP/Bridge/Client,1,Moxa,NULL
+ICSA-20-065-01,https://www.us-cert.gov/ics/advisories/icsa-20-065-01,2020-03-05,1900-01-01,WAGO I/O-CHECK,0,WAGO,NULL
+ICSA-20-070-01,https://www.us-cert.gov/ics/advisories/icsa-20-070-01,2020-03-10,1900-01-01,Siemens SiNVR 3,1,Siemens,NULL
+ICSA-20-070-02,https://www.us-cert.gov/ics/advisories/icsa-20-070-02,2020-03-10,1900-01-01,SIMATIC S7-300 CPUs and SINUMERIK Controller over Profinet,1,Siemens,NULL
+ICSA-20-070-03,https://www.us-cert.gov/ics/advisories/icsa-20-070-03,2020-03-10,1900-01-01,Siemens Spectrum Power 5,1,Siemens,NULL
+ICSA-20-070-04,https://www.us-cert.gov/ics/advisories/icsa-20-070-04,2020-03-10,2020-03-11,Johnson Controls Kantech EntraPass,1,Johnson Controls,NULL
+ICSA-20-070-05,https://www.us-cert.gov/ics/advisories/icsa-20-070-05,2020-03-10,1900-01-01,Johnson Controls Metasys,1,Johnson Controls,NULL
+ICSA-20-070-06,https://www.us-cert.gov/ics/advisories/icsa-20-070-06,2020-03-10,1900-01-01,Rockwell Automation MicroLogix Controllers and RSLogix 500 Software,1,Rockwell Automation,NULL
+ICSA-20-072-01,https://www.us-cert.gov/ics/advisories/icsa-20-072-01,2020-03-12,1900-01-01,ABB eSOMS,1,ABB,NULL
+ICSA-20-072-02,https://www.us-cert.gov/ics/advisories/icsa-20-072-02,2020-03-12,1900-01-01,ABB Asset Suite,1,ABB,NULL
+ICSA-20-072-03,https://www.us-cert.gov/ics/advisories/icsa-20-072-03,2020-03-12,1900-01-01,Rockwell Automation Allen-Bradley Stratix 5950,1,Rockwell Automation,NULL
+ICSA-20-077-01,https://www.us-cert.gov/ics/advisories/icsa-20-077-01,2020-03-17,1900-01-01,Delta Electronics Industrial Automation CNCSoft ScreenEditor,1,Delta Electronics,NULL
+ICSA-20-079-01,https://www.us-cert.gov/ics/advisories/icsa-20-079-01,2020-03-19,1900-01-01,Systech NDS-5000 Terminal Server,1,Systech,NULL
+ICSA-20-084-01,https://www.us-cert.gov/ics/advisories/icsa-20-084-01,2020-03-24,1900-01-01,VISAM Automation Base (VBASE),1,VISAM,NULL
+ICSA-20-084-02,https://www.us-cert.gov/ics/advisories/icsa-20-084-02,2020-03-24,1900-01-01,Schneider Electric IGSS SCADA Software,1,Schneider Electric,NULL
+ICSA-20-086-01,https://www.us-cert.gov/ics/advisories/icsa-20-086-01,2020-03-26,1900-01-01,Advantech WebAccess,1,Advantech,NULL
+ICSMA-19-190-01,https://www.us-cert.gov/ics/advisories/icsma-19-190-01,2019-07-09,2019-07-24,GE Aestiva and Aespire Anesthesia (Update A),1,GE,NULL
+ICSMA-19-192-01,https://www.us-cert.gov/ics/advisories/icsma-19-192-01,2019-07-11,1900-01-01,Philips Holter 2010 Plus,1,Philips,NULL
+ICSMA-19-241-01,https://www.us-cert.gov/ics/advisories/icsma-19-241-01,2019-08-29,1900-01-01,Change Healthcare McKesson and Horizon Cardiology,1,Change Healthcare,NULL
+ICSMA-19-241-02,https://www.us-cert.gov/ics/advisories/icsma-19-241-02,2019-08-29,1900-01-01,Philips HDI 4000 Ultrasound,1,Philips,NULL
+ICSMA-19-248-01,https://www.us-cert.gov/ics/advisories/icsma-19-248-01,2019-09-05,2019-10-08,BD Pyxis (Update A),1,"Becton, Dickinson and Company (BD)",NULL
+ICSMA-19-255-01,https://www.us-cert.gov/ics/advisories/icsma-19-255-01,2019-09-12,1900-01-01,Philips IntelliVue WLAN,1,Philips,NULL
+ICSMA-19-274-01,https://www.us-cert.gov/ics/advisories/icsma-19-274-01,2020-01-07,1900-01-01,Interpeak IPnet TCP/IP Stack (Update D),1,"ENEA, Green Hills Software, ITRON, IP Infusion, Wind River",NULL
+ICSMA-19-297-01,https://www.us-cert.gov/ics/advisories/icsma-19-297-01,2019-10-24,1900-01-01,Philips IntelliSpace Perinatal,1,Philips,NULL
+ICSMA-19-311-01,https://www.us-cert.gov/ics/advisories/icsma-19-311-01,2019-11-07,1900-01-01,Medtronic Valleylab FT10 and LS10,1,Medtronic,NULL
+ICSMA-19-311-02,https://www.us-cert.gov/ics/advisories/icsma-19-311-02,2019-11-07,1900-01-01,Medtronic Valleylab FT10 and FX8,1,Medtronic,NULL
+ICSMA-19-318-01,https://www.us-cert.gov/ics/advisories/icsma-19-318-01,2019-12-12,1900-01-01,Philips IntelliBridge EC40/80 (Update A),1,Philips,NULL
+ICSMA-19-353-01,https://www.us-cert.gov/ics/advisories/icsma-19-353-01,2019-12-19,1900-01-01,"Philips Veradius Unity, Pulsera, and Endura Dual WAN Routers",0,Philips,NULL
+ICSMA-20-023-01,https://www.us-cert.gov/ics/advisories/icsma-20-023-01,2020-01-23,1900-01-01,"GE CARESCAPE, ApexPro, and Clinical Information Center systems",1,GE,NULL
+ICSMA-20-049-01,https://www.us-cert.gov/ics/advisories/icsma-20-049-01,2020-02-18,1900-01-01,Spacelabs Xhibit Telemetry Receiver (XTR),1,Spacelabs,NULL
+ICSMA-20-049-02,https://www.us-cert.gov/ics/advisories/icsma-20-049-02,2020-02-18,1900-01-01,GE Ultrasound products,1,GE,NULL
+ICSMA-20-079-01,https://www.us-cert.gov/ics/advisories/icsma-20-079-01,2020-03-19,1900-01-01,Insulet Omnipod,1,Insulet,NULL

@@ -1,0 +1,3078 @@
+[
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-209"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-22"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-220"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-223"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-256"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-284"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-285"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-287"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-295"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-308"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-311"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-312"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-319"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-320"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-325"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-326"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-327"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-328"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-359"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-384"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-425"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-502"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-522"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-523"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-548"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-564"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-611"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-613"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-620"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-639"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-640"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-77"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-776"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-778"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-78"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-79"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-88"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-89"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-90"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-91"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-917"
+  },
+  {
+    "cwe_category": 1,
+    "cwe_member": "CWE-943"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-564"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-77"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-78"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-88"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-89"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-90"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-91"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-917"
+  },
+  {
+    "cwe_category": 2,
+    "cwe_member": "CWE-943"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-256"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-287"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-308"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-384"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-522"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-523"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-613"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-620"
+  },
+  {
+    "cwe_category": 3,
+    "cwe_member": "CWE-640"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-220"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-295"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-311"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-312"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-319"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-320"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-325"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-326"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-327"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-328"
+  },
+  {
+    "cwe_category": 4,
+    "cwe_member": "CWE-359"
+  },
+  {
+    "cwe_category": 5,
+    "cwe_member": "CWE-611"
+  },
+  {
+    "cwe_category": 5,
+    "cwe_member": "CWE-776"
+  },
+  {
+    "cwe_category": 6,
+    "cwe_member": "CWE-22"
+  },
+  {
+    "cwe_category": 6,
+    "cwe_member": "CWE-284"
+  },
+  {
+    "cwe_category": 6,
+    "cwe_member": "CWE-285"
+  },
+  {
+    "cwe_category": 6,
+    "cwe_member": "CWE-425"
+  },
+  {
+    "cwe_category": 6,
+    "cwe_member": "CWE-639"
+  },
+  {
+    "cwe_category": 7,
+    "cwe_member": "CWE-16"
+  },
+  {
+    "cwe_category": 7,
+    "cwe_member": "CWE-209"
+  },
+  {
+    "cwe_category": 7,
+    "cwe_member": "CWE-548"
+  },
+  {
+    "cwe_category": 8,
+    "cwe_member": "CWE-79"
+  },
+  {
+    "cwe_category": 9,
+    "cwe_member": "CWE-502"
+  },
+  {
+    "cwe_category": 11,
+    "cwe_member": "CWE-223"
+  },
+  {
+    "cwe_category": 11,
+    "cwe_member": "CWE-778"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-120"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-131"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-134"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-190"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-209"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-212"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-22"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-250"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-306"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-307"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-311"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-327"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-330"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-352"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-362"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-434"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-456"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-476"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-494"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-601"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-676"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-681"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-732"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-754"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-759"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-770"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-772"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-78"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-79"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-798"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-805"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-807"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-822"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-825"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-829"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-838"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-841"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-862"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-863"
+  },
+  {
+    "cwe_category": 12,
+    "cwe_member": "CWE-89"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-209"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-212"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-330"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-362"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-456"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-476"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-681"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-754"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-770"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-772"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-805"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-822"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-825"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-838"
+  },
+  {
+    "cwe_category": 13,
+    "cwe_member": "CWE-841"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-250"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-306"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-307"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-311"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-327"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-732"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-759"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-798"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-807"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-862"
+  },
+  {
+    "cwe_category": 14,
+    "cwe_member": "CWE-863"
+  },
+  {
+    "cwe_category": 15,
+    "cwe_member": "CWE-120"
+  },
+  {
+    "cwe_category": 15,
+    "cwe_member": "CWE-131"
+  },
+  {
+    "cwe_category": 15,
+    "cwe_member": "CWE-134"
+  },
+  {
+    "cwe_category": 15,
+    "cwe_member": "CWE-190"
+  },
+  {
+    "cwe_category": 15,
+    "cwe_member": "CWE-22"
+  },
+  {
+    "cwe_category": 15,
+    "cwe_member": "CWE-494"
+  },
+  {
+    "cwe_category": 15,
+    "cwe_member": "CWE-676"
+  },
+  {
+    "cwe_category": 16,
+    "cwe_member": "CWE-352"
+  },
+  {
+    "cwe_category": 16,
+    "cwe_member": "CWE-434"
+  },
+  {
+    "cwe_category": 16,
+    "cwe_member": "CWE-601"
+  },
+  {
+    "cwe_category": 16,
+    "cwe_member": "CWE-78"
+  },
+  {
+    "cwe_category": 16,
+    "cwe_member": "CWE-79"
+  },
+  {
+    "cwe_category": 16,
+    "cwe_member": "CWE-829"
+  },
+  {
+    "cwe_category": 16,
+    "cwe_member": "CWE-89"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-119"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-125"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-190"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-20"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-200"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-22"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-269"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-287"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-295"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-352"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-400"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-416"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-426"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-434"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-476"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-502"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-611"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-732"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-772"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-78"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-787"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-79"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-798"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-89"
+  },
+  {
+    "cwe_category": 17,
+    "cwe_member": "CWE-94"
+  },
+  {
+    "cwe_category": 19,
+    "cwe_member": "CWE-282"
+  },
+  {
+    "cwe_category": 19,
+    "cwe_member": "CWE-283"
+  },
+  {
+    "cwe_category": 19,
+    "cwe_member": "CWE-284"
+  },
+  {
+    "cwe_category": 19,
+    "cwe_member": "CWE-286"
+  },
+  {
+    "cwe_category": 19,
+    "cwe_member": "CWE-708"
+  },
+  {
+    "cwe_category": 20,
+    "cwe_member": "CWE-285"
+  },
+  {
+    "cwe_category": 20,
+    "cwe_member": "CWE-424"
+  },
+  {
+    "cwe_category": 20,
+    "cwe_member": "CWE-639"
+  },
+  {
+    "cwe_category": 20,
+    "cwe_member": "CWE-650"
+  },
+  {
+    "cwe_category": 21,
+    "cwe_member": "CWE-276"
+  },
+  {
+    "cwe_category": 21,
+    "cwe_member": "CWE-277"
+  },
+  {
+    "cwe_category": 21,
+    "cwe_member": "CWE-278"
+  },
+  {
+    "cwe_category": 21,
+    "cwe_member": "CWE-279"
+  },
+  {
+    "cwe_category": 21,
+    "cwe_member": "CWE-281"
+  },
+  {
+    "cwe_category": 21,
+    "cwe_member": "CWE-560"
+  },
+  {
+    "cwe_category": 21,
+    "cwe_member": "CWE-732"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-287"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-288"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-289"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-303"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-304"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-305"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-308"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-309"
+  },
+  {
+    "cwe_category": 22,
+    "cwe_member": "CWE-603"
+  },
+  {
+    "cwe_category": 23,
+    "cwe_member": "CWE-296"
+  },
+  {
+    "cwe_category": 23,
+    "cwe_member": "CWE-297"
+  },
+  {
+    "cwe_category": 23,
+    "cwe_member": "CWE-298"
+  },
+  {
+    "cwe_category": 23,
+    "cwe_member": "CWE-299"
+  },
+  {
+    "cwe_category": 23,
+    "cwe_member": "CWE-593"
+  },
+  {
+    "cwe_category": 23,
+    "cwe_member": "CWE-599"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-293"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-302"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-345"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-346"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-350"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-360"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-551"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-565"
+  },
+  {
+    "cwe_category": 24,
+    "cwe_member": "CWE-647"
+  },
+  {
+    "cwe_category": 25,
+    "cwe_member": "CWE-258"
+  },
+  {
+    "cwe_category": 25,
+    "cwe_member": "CWE-259"
+  },
+  {
+    "cwe_category": 25,
+    "cwe_member": "CWE-321"
+  },
+  {
+    "cwe_category": 25,
+    "cwe_member": "CWE-547"
+  },
+  {
+    "cwe_category": 26,
+    "cwe_member": "CWE-262"
+  },
+  {
+    "cwe_category": 26,
+    "cwe_member": "CWE-263"
+  },
+  {
+    "cwe_category": 26,
+    "cwe_member": "CWE-521"
+  },
+  {
+    "cwe_category": 26,
+    "cwe_member": "CWE-556"
+  },
+  {
+    "cwe_category": 26,
+    "cwe_member": "CWE-613"
+  },
+  {
+    "cwe_category": 26,
+    "cwe_member": "CWE-645"
+  },
+  {
+    "cwe_category": 27,
+    "cwe_member": "CWE-306"
+  },
+  {
+    "cwe_category": 27,
+    "cwe_member": "CWE-620"
+  },
+  {
+    "cwe_category": 28,
+    "cwe_member": "CWE-422"
+  },
+  {
+    "cwe_category": 28,
+    "cwe_member": "CWE-425"
+  },
+  {
+    "cwe_category": 29,
+    "cwe_member": "CWE-605"
+  },
+  {
+    "cwe_category": 30,
+    "cwe_member": "CWE-307"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-290"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-294"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-300"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-301"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-419"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-420"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-421"
+  },
+  {
+    "cwe_category": 31,
+    "cwe_member": "CWE-441"
+  },
+  {
+    "cwe_category": 32,
+    "cwe_member": "CWE-353"
+  },
+  {
+    "cwe_category": 32,
+    "cwe_member": "CWE-435"
+  },
+  {
+    "cwe_category": 32,
+    "cwe_member": "CWE-436"
+  },
+  {
+    "cwe_category": 32,
+    "cwe_member": "CWE-437"
+  },
+  {
+    "cwe_category": 32,
+    "cwe_member": "CWE-757"
+  },
+  {
+    "cwe_category": 33,
+    "cwe_member": "CWE-325"
+  },
+  {
+    "cwe_category": 33,
+    "cwe_member": "CWE-327"
+  },
+  {
+    "cwe_category": 33,
+    "cwe_member": "CWE-328"
+  },
+  {
+    "cwe_category": 33,
+    "cwe_member": "CWE-759"
+  },
+  {
+    "cwe_category": 33,
+    "cwe_member": "CWE-760"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-261"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-322"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-323"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-324"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-326"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-329"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-347"
+  },
+  {
+    "cwe_category": 34,
+    "cwe_member": "CWE-640"
+  },
+  {
+    "cwe_category": 35,
+    "cwe_member": "CWE-396"
+  },
+  {
+    "cwe_category": 35,
+    "cwe_member": "CWE-397"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-392"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-393"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-455"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-460"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-544"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-584"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-636"
+  },
+  {
+    "cwe_category": 36,
+    "cwe_member": "CWE-703"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-248"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-252"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-253"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-273"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-280"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-372"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-390"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-391"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-394"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-395"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-431"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-478"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-484"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-600"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-665"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-754"
+  },
+  {
+    "cwe_category": 37,
+    "cwe_member": "CWE-755"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-11"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-117"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-12"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-13"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-14"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-200"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-201"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-209"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-210"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-211"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-212"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-213"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-214"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-215"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-219"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-220"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-226"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-244"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-256"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-257"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-260"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-311"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-312"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-313"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-314"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-315"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-316"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-317"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-318"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-319"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-374"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-375"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-402"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-403"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-433"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-495"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-497"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-498"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-499"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-5"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-501"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-522"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-523"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-526"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-527"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-528"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-529"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-530"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-532"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-535"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-536"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-537"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-538"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-539"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-540"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-541"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-546"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-548"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-550"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-552"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-555"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-591"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-598"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-607"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-612"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-615"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-642"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-668"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-669"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-7"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-756"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-767"
+  },
+  {
+    "cwe_category": 38,
+    "cwe_member": "CWE-8"
+  },
+  {
+    "cwe_category": 39,
+    "cwe_member": "CWE-377"
+  },
+  {
+    "cwe_category": 39,
+    "cwe_member": "CWE-378"
+  },
+  {
+    "cwe_category": 39,
+    "cwe_member": "CWE-379"
+  },
+  {
+    "cwe_category": 40,
+    "cwe_member": "CWE-488"
+  },
+  {
+    "cwe_category": 40,
+    "cwe_member": "CWE-524"
+  },
+  {
+    "cwe_category": 40,
+    "cwe_member": "CWE-6"
+  },
+  {
+    "cwe_category": 41,
+    "cwe_member": "CWE-453"
+  },
+  {
+    "cwe_category": 41,
+    "cwe_member": "CWE-487"
+  },
+  {
+    "cwe_category": 41,
+    "cwe_member": "CWE-492"
+  },
+  {
+    "cwe_category": 41,
+    "cwe_member": "CWE-525"
+  },
+  {
+    "cwe_category": 41,
+    "cwe_member": "CWE-614"
+  },
+  {
+    "cwe_category": 41,
+    "cwe_member": "CWE-651"
+  },
+  {
+    "cwe_category": 42,
+    "cwe_member": "CWE-202"
+  },
+  {
+    "cwe_category": 42,
+    "cwe_member": "CWE-203"
+  },
+  {
+    "cwe_category": 42,
+    "cwe_member": "CWE-204"
+  },
+  {
+    "cwe_category": 42,
+    "cwe_member": "CWE-205"
+  },
+  {
+    "cwe_category": 42,
+    "cwe_member": "CWE-206"
+  },
+  {
+    "cwe_category": 42,
+    "cwe_member": "CWE-207"
+  },
+  {
+    "cwe_category": 42,
+    "cwe_member": "CWE-208"
+  },
+  {
+    "cwe_category": 43,
+    "cwe_member": "CWE-385"
+  },
+  {
+    "cwe_category": 43,
+    "cwe_member": "CWE-514"
+  },
+  {
+    "cwe_category": 43,
+    "cwe_member": "CWE-515"
+  },
+  {
+    "cwe_category": 44,
+    "cwe_member": "CWE-415"
+  },
+  {
+    "cwe_category": 44,
+    "cwe_member": "CWE-590"
+  },
+  {
+    "cwe_category": 44,
+    "cwe_member": "CWE-761"
+  },
+  {
+    "cwe_category": 44,
+    "cwe_member": "CWE-762"
+  },
+  {
+    "cwe_category": 44,
+    "cwe_member": "CWE-763"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-118"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-119"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-120"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-121"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-122"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-123"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-124"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-125"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-126"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-127"
+  },
+  {
+    "cwe_category": 45,
+    "cwe_member": "CWE-129"
+  },
+  {
+    "cwe_category": 46,
+    "cwe_member": "CWE-469"
+  },
+  {
+    "cwe_category": 46,
+    "cwe_member": "CWE-476"
+  },
+  {
+    "cwe_category": 46,
+    "cwe_member": "CWE-588"
+  },
+  {
+    "cwe_category": 47,
+    "cwe_member": "CWE-785"
+  },
+  {
+    "cwe_category": 48,
+    "cwe_member": "CWE-170"
+  },
+  {
+    "cwe_category": 49,
+    "cwe_member": "CWE-131"
+  },
+  {
+    "cwe_category": 49,
+    "cwe_member": "CWE-135"
+  },
+  {
+    "cwe_category": 49,
+    "cwe_member": "CWE-467"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-348"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-359"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-602"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-637"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-649"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-654"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-656"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-657"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-671"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-693"
+  },
+  {
+    "cwe_category": 50,
+    "cwe_member": "CWE-749"
+  },
+  {
+    "cwe_category": 51,
+    "cwe_member": "CWE-733"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-115"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-187"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-188"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-193"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-349"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-405"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-406"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-407"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-408"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-409"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-410"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-430"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-462"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-463"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-464"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-480"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-483"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-581"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-595"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-618"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-648"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-670"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-682"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-691"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-696"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-697"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-698"
+  },
+  {
+    "cwe_category": 52,
+    "cwe_member": "CWE-705"
+  },
+  {
+    "cwe_category": 53,
+    "cwe_member": "CWE-216"
+  },
+  {
+    "cwe_category": 53,
+    "cwe_member": "CWE-358"
+  },
+  {
+    "cwe_category": 53,
+    "cwe_member": "CWE-398"
+  },
+  {
+    "cwe_category": 53,
+    "cwe_member": "CWE-623"
+  },
+  {
+    "cwe_category": 53,
+    "cwe_member": "CWE-710"
+  },
+  {
+    "cwe_category": 54,
+    "cwe_member": "CWE-243"
+  },
+  {
+    "cwe_category": 55,
+    "cwe_member": "CWE-386"
+  },
+  {
+    "cwe_category": 55,
+    "cwe_member": "CWE-59"
+  },
+  {
+    "cwe_category": 55,
+    "cwe_member": "CWE-610"
+  },
+  {
+    "cwe_category": 55,
+    "cwe_member": "CWE-62"
+  },
+  {
+    "cwe_category": 55,
+    "cwe_member": "CWE-64"
+  },
+  {
+    "cwe_category": 55,
+    "cwe_member": "CWE-65"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-22"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-23"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-24"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-25"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-26"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-27"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-28"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-29"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-30"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-31"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-32"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-33"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-34"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-35"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-36"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-37"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-38"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-39"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-40"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-41"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-42"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-428"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-43"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-44"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-45"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-46"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-47"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-48"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-49"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-50"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-51"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-52"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-53"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-54"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-55"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-56"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-57"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-58"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-66"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-67"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-706"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-72"
+  },
+  {
+    "cwe_category": 56,
+    "cwe_member": "CWE-73"
+  },
+  {
+    "cwe_category": 57,
+    "cwe_member": "CWE-401"
+  },
+  {
+    "cwe_category": 57,
+    "cwe_member": "CWE-404"
+  },
+  {
+    "cwe_category": 57,
+    "cwe_member": "CWE-459"
+  },
+  {
+    "cwe_category": 57,
+    "cwe_member": "CWE-771"
+  },
+  {
+    "cwe_category": 57,
+    "cwe_member": "CWE-772"
+  },
+  {
+    "cwe_category": 57,
+    "cwe_member": "CWE-773"
+  },
+  {
+    "cwe_category": 57,
+    "cwe_member": "CWE-775"
+  },
+  {
+    "cwe_category": 58,
+    "cwe_member": "CWE-416"
+  },
+  {
+    "cwe_category": 58,
+    "cwe_member": "CWE-672"
+  },
+  {
+    "cwe_category": 59,
+    "cwe_member": "CWE-664"
+  },
+  {
+    "cwe_category": 59,
+    "cwe_member": "CWE-666"
+  },
+  {
+    "cwe_category": 59,
+    "cwe_member": "CWE-675"
+  },
+  {
+    "cwe_category": 59,
+    "cwe_member": "CWE-694"
+  },
+  {
+    "cwe_category": 60,
+    "cwe_member": "CWE-400"
+  },
+  {
+    "cwe_category": 60,
+    "cwe_member": "CWE-674"
+  },
+  {
+    "cwe_category": 60,
+    "cwe_member": "CWE-770"
+  },
+  {
+    "cwe_category": 60,
+    "cwe_member": "CWE-774"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-364"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-365"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-366"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-368"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-413"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-414"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-543"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-567"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-609"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-662"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-663"
+  },
+  {
+    "cwe_category": 61,
+    "cwe_member": "CWE-667"
+  },
+  {
+    "cwe_category": 62,
+    "cwe_member": "CWE-585"
+  },
+  {
+    "cwe_category": 62,
+    "cwe_member": "CWE-764"
+  },
+  {
+    "cwe_category": 62,
+    "cwe_member": "CWE-765"
+  },
+  {
+    "cwe_category": 63,
+    "cwe_member": "CWE-362"
+  },
+  {
+    "cwe_category": 63,
+    "cwe_member": "CWE-363"
+  },
+  {
+    "cwe_category": 63,
+    "cwe_member": "CWE-367"
+  },
+  {
+    "cwe_category": 63,
+    "cwe_member": "CWE-370"
+  },
+  {
+    "cwe_category": 63,
+    "cwe_member": "CWE-638"
+  },
+  {
+    "cwe_category": 64,
+    "cwe_member": "CWE-412"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-102"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-103"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-104"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-105"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-106"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-107"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-108"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-109"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-110"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-112"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-113"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-130"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-134"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-138"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-140"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-141"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-142"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-143"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-144"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-145"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-146"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-147"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-148"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-149"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-150"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-151"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-152"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-153"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-154"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-155"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-156"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-157"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-158"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-159"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-160"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-161"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-162"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-163"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-164"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-165"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-183"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-184"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-185"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-186"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-444"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-553"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-554"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-564"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-601"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-611"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-619"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-621"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-624"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-625"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-626"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-627"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-641"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-643"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-644"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-646"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-652"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-707"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-74"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-75"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-76"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-77"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-78"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-79"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-80"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-81"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-82"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-83"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-84"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-85"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-86"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-87"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-88"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-89"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-90"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-91"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-93"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-95"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-96"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-97"
+  },
+  {
+    "cwe_category": 65,
+    "cwe_member": "CWE-99"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-114"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-427"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-470"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-471"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-472"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-473"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-494"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-622"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-673"
+  },
+  {
+    "cwe_category": 66,
+    "cwe_member": "CWE-94"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-116"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-166"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-167"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-168"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-172"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-173"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-174"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-175"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-176"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-177"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-178"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-179"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-180"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-181"
+  },
+  {
+    "cwe_category": 67,
+    "cwe_member": "CWE-182"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-198"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-228"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-229"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-230"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-231"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-232"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-233"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-234"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-235"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-236"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-237"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-238"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-239"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-240"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-241"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-351"
+  },
+  {
+    "cwe_category": 68,
+    "cwe_member": "CWE-354"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-15"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-20"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-454"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-496"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-502"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-566"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-606"
+  },
+  {
+    "cwe_category": 69,
+    "cwe_member": "CWE-616"
+  },
+  {
+    "cwe_category": 70,
+    "cwe_member": "CWE-447"
+  },
+  {
+    "cwe_category": 70,
+    "cwe_member": "CWE-448"
+  },
+  {
+    "cwe_category": 70,
+    "cwe_member": "CWE-449"
+  },
+  {
+    "cwe_category": 70,
+    "cwe_member": "CWE-450"
+  },
+  {
+    "cwe_category": 70,
+    "cwe_member": "CWE-451"
+  },
+  {
+    "cwe_category": 70,
+    "cwe_member": "CWE-549"
+  },
+  {
+    "cwe_category": 70,
+    "cwe_member": "CWE-655"
+  },
+  {
+    "cwe_category": 71,
+    "cwe_member": "CWE-356"
+  },
+  {
+    "cwe_category": 71,
+    "cwe_member": "CWE-357"
+  },
+  {
+    "cwe_category": 71,
+    "cwe_member": "CWE-446"
+  },
+  {
+    "cwe_category": 72,
+    "cwe_member": "CWE-221"
+  },
+  {
+    "cwe_category": 72,
+    "cwe_member": "CWE-222"
+  },
+  {
+    "cwe_category": 72,
+    "cwe_member": "CWE-223"
+  },
+  {
+    "cwe_category": 72,
+    "cwe_member": "CWE-224"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-128"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-190"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-191"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-194"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-195"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-196"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-197"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-369"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-456"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-457"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-466"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-468"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-475"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-481"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-486"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-562"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-570"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-571"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-579"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-587"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-594"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-597"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-628"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-681"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-683"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-685"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-686"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-687"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-688"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-704"
+  },
+  {
+    "cwe_category": 73,
+    "cwe_member": "CWE-768"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-111"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-242"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-245"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-246"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-382"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-383"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-432"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-439"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-440"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-474"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-477"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-479"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-558"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-572"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-573"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-574"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-575"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-576"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-577"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-578"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-586"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-589"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-617"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-676"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-684"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-695"
+  },
+  {
+    "cwe_category": 74,
+    "cwe_member": "CWE-758"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-489"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-491"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-493"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-500"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-531"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-568"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-580"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-582"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-583"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-608"
+  },
+  {
+    "cwe_category": 75,
+    "cwe_member": "CWE-766"
+  }
+]
